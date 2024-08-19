@@ -126,7 +126,10 @@ int _tmain()
 [第十六课 拦截DLL注入](https://www.bilibili.com/video/BV1kr421g7ri/)
 [Windows攻防对抗-DLL侧载篇](https://mp.weixin.qq.com/s/fZAu99uVUskO1T4-QIoVPg)
 [进程注入](https://mp.weixin.qq.com/s/shIXAYlqRp4WjoRxvHUQHQ)
+[浅谈进程隐藏技术](https://mp.weixin.qq.com/s/tHZbZGAaApRH8Ly-Nynb6Q)
 [重生之我在干免杀-利用 Windows 线程池 API：使用 IO 完成回调代理 DLL 加载](https://mp.weixin.qq.com/s/J5kokfj3bcb77Jl81l1AKg)
+[游戏安全入门-扫雷分析&远程线程注入](https://mp.weixin.qq.com/s/3yxlMtOStHzgsATBMk0HQg)
+[『免杀系列』DLL劫持](https://mp.weixin.qq.com/s/NqpZyIKg3FvrnotWzz06kg)
 
 ## 寻址
 
