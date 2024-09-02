@@ -40,3 +40,4 @@
 https://space.bilibili.com/94240122/video
 https://space.bilibili.com/95835298/video
 [二进制 - VT虚拟化&内核驱动](https://www.bilibili.com/video/BV1Yw4m117SN/)
+[柠檬有多萌萌胧未可知 | 3.windows驱动内核安全-windows Debug构建通道提升权限](https://www.bilibili.com/video/BV1dr421T78k/)

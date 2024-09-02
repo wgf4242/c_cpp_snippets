@@ -105,11 +105,13 @@ int _tmain()
 
 [免杀学习-基础-一](https://mp.weixin.qq.com/s/qpINhoeK3gBNrZrY_jH7Cw)
 [Windows*Shellcode*内联汇编](https://secondbc.github.io/SecondBC/2023/06/19/Windows_Shellcode/)
+[从 PE 资源加载和执行 shellcode](https://mp.weixin.qq.com/s/299TT25LXzWtymUPCvhGdQ)
 [Windows 编程](https://secondbc.github.io/SecondBC/2022/12/04/Windows编程/)
 [远程线程注入-极安御信网络安全系列课程-病毒分析](https://www.bilibili.com/video/BV1ww411U71g/)
 [PE 简单解析器](https://secondbc.github.io/SecondBC/2022/11/12/PE简单解析器/)
 [一周学会 Windbg 调试器使用第 8 篇 - 何时使用 Windbg 进行动态调试](https://www.bilibili.com/video/BV1DX4y1b7bq/)
 [极安御信网络安全系列课程-C++ shellcode 加载器原理](https://www.bilibili.com/video/BV19P411v7rX/)
+[动态免杀系列 VEH异常处理内存动态免杀](https://mp.weixin.qq.com/s/CZgXZPkL2pGx1IvOtgFbeQ)
 
 ### dll/进程 注入/Hook
 
@@ -130,6 +132,8 @@ int _tmain()
 [重生之我在干免杀-利用 Windows 线程池 API：使用 IO 完成回调代理 DLL 加载](https://mp.weixin.qq.com/s/J5kokfj3bcb77Jl81l1AKg)
 [游戏安全入门-扫雷分析&远程线程注入](https://mp.weixin.qq.com/s/3yxlMtOStHzgsATBMk0HQg)
 [『免杀系列』DLL劫持](https://mp.weixin.qq.com/s/NqpZyIKg3FvrnotWzz06kg)
+[利用Windows引导程序安全加载DLL](https://mp.weixin.qq.com/s/PYbuROGbtv7ZgJRJwiYv7g)
+[反射DLL注入原理解析](https://mp.weixin.qq.com/s/6Mu7opmPBw7ICVYJgNG66g)
 
 ## 寻址
 
