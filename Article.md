@@ -218,6 +218,7 @@
 [C++ 好用的开源库集合--Boost](https://mp.weixin.qq.com/s/nmjd_9DQAfVXWXAhcb6dow)
 [适用于嵌入式设备的 Json 库](https://mp.weixin.qq.com/s/46P7rNqRMXwqZZ1DwXRhfw)
 [ZXing QRCode二维码](https://mp.weixin.qq.com/s/o0BiAtyMPERgCqb4r05ADw)
+[Folly | C++ 高端基础库推荐](https://mp.weixin.qq.com/s/n_pYRUFjkZ0bFz4Toli4og)
 
 # CMake
 [使用CMake编译程序](https://mp.weixin.qq.com/s/rhFscfiSPq5SkSV-aEiT2g)
@@ -253,6 +254,7 @@
 [VSCode同时编译多个C文件](https://mp.weixin.qq.com/s/qY-ZuwVP3BCvh4_ZxETN7Q)
 
 # Lua
+[Lua与C++交互](https://mp.weixin.qq.com/s/pQA5UbdmsRkROez1-20Dyw)
 [C++ 调用 Lua 函数](https://mp.weixin.qq.com/s/hCdtx_64Cf2LIcWVMNlgEg)
 [C++ 与 Lua 交互内存分配](https://mp.weixin.qq.com/s/emSlERkhKhM6XfUZ6YSivg)
 [Lua 编译执行和错r](https://mp.weixin.qq.com/s/irBden08lPEz91P1H_xdQw)

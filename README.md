@@ -715,10 +715,6 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 [每天学点 C++之限时等待](https://mp.weixin.qq.com/s/toPz6SI4A_RHtmise7bzOQ)
 [C++提高篇：类的初始化列表](https://mp.weixin.qq.com/s/eMVlwroTBsG7-j0oUPWDww)
 
-## 免杀
-
-[shellcode loader 的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
-[在 ShellCode 里面使用异常处理(Win64 位平台)](https://mp.weixin.qq.com/s/I2lw1j63QsDmjtKyJalveg)
 
 ## QT
 

@@ -112,6 +112,12 @@ int _tmain()
 [一周学会 Windbg 调试器使用第 8 篇 - 何时使用 Windbg 进行动态调试](https://www.bilibili.com/video/BV1DX4y1b7bq/)
 [极安御信网络安全系列课程-C++ shellcode 加载器原理](https://www.bilibili.com/video/BV19P411v7rX/)
 [动态免杀系列 VEH异常处理内存动态免杀](https://mp.weixin.qq.com/s/CZgXZPkL2pGx1IvOtgFbeQ)
+[让安全软件瑟瑟发抖：重生之我是天命进程](https://mp.weixin.qq.com/s/NrqiIjJNn7SAwp3Wgj8dMw)
+
+## 安全编程/免杀/shellcode
+
+[shellcode loader 的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
+[在 ShellCode 里面使用异常处理(Win64 位平台)](https://mp.weixin.qq.com/s/I2lw1j63QsDmjtKyJalveg)
 
 ### dll/进程 注入/Hook
 
