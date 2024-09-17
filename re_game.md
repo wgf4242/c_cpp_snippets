@@ -1,3 +1,5 @@
+lua53-64.dll，直接VEH和DBVM调试。
+
 [Ferry学院](https://space.bilibili.com/399331917/video)
 [飞郁](https://space.bilibili.com/476729843/video)
 [任鸟飞逆向安全](https://space.bilibili.com/413483715)
