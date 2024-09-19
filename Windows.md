@@ -121,6 +121,7 @@ int _tmain()
 
 ### dll/进程 注入/Hook
 
+[Windows钩子技术与恶意软件应用](https://mp.weixin.qq.com/s/m1tOR8eIVDUWQa12xyW__g)
 [DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
 [DLL 显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
 [dll 延迟加载技术](https://mp.weixin.qq.com/s/wxNQ7yn1W1s85hR8CZGeRQ)
