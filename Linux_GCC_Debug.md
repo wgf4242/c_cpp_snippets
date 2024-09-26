@@ -3,6 +3,7 @@ sudo apt -y install gcc-multilib # 32位支持
 [常用的Linux Hooking技术总结](https://mp.weixin.qq.com/s/AmOw6JQtkP7XXrisYtHq1Q)
 [快速了解操作系统的文件系统设计](https://mp.weixin.qq.com/s/OOjhVuNLJr_r1jzVJRocXA)
 
+[C++中如何调用.so共享库？](https://mp.weixin.qq.com/s/9viH3pGI_mpBXYPQhjJ0Iw)
 
 ## 编译为汇编
 
