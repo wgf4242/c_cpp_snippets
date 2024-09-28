@@ -98,6 +98,7 @@ int _tmain()
 [Win32 API · 内存操作](https://mp.weixin.qq.com/s/NGPb7YfMiZSBMJuVfrweLQ)
 [Win32 API · 进程与线程](https://mp.weixin.qq.com/s/2WWt0GJ6uL0iPUQH9Q5QEA)
 [通过修改物理内存实现跨进程内存读写](https://mp.weixin.qq.com/s/HBHJeTTNEQ5AVfarBenZZQ)
+[使用 Windows API 查找 PID 和 PPID](https://mp.weixin.qq.com/s/zaz-Qed9ScbZihagcgsudw)
 
 ## 安全编程/免杀
 
