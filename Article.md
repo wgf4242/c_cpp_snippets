@@ -1,3 +1,6 @@
+[Windows安装MinGW及C++及Qt环境和配置](https://mp.weixin.qq.com/s/LJW4fPwf9Y6vAZfUbxtw-w)
+
+
 [C++提效网站](https://mp.weixin.qq.com/s/Nqcj6HTtF5Azb_M9fpny0A)
 [全面盘点C++类型转换](https://mp.weixin.qq.com/s/8JzlknW_uMpkzr5u4E72EA)
 [一个简单例子教会你C++动态库的用法](https://mp.weixin.qq.com/s/_FcQZrkCEau5OzBvaDm_og)
@@ -15,11 +18,13 @@
 [时间 | 跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
 [时间 | 再也不被时间束缚：C++ std::chrono时间库全面解析](https://mp.weixin.qq.com/s/cMyZx7t77OMthMVuSpAurg)
 [掌握C++定时器：构建自己的定时器的分步指南](https://mp.weixin.qq.com/s/jx3J1I37m1oB7zzDOFR9NA)
+[跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
 [跟我学c++中级篇——模板的模板参数匹配](https://mp.weixin.qq.com/s/zFGoQTECVZc0R01EcevDBg)
 [跟我学C++中级篇——POD数据类型及演进](https://mp.weixin.qq.com/s/Yv86wnBBPYpX1gmHPsZpcQ)
 [跟我学C++中级篇——字面量和字符串](https://mp.weixin.qq.com/s/iDgwCMP-BIiz0Yl5auTQTw)
 [跟我学C++中级篇——字符串的转化](https://mp.weixin.qq.com/s/-BC2SfvPExltgUoBqHZZkA)
+[跟我学C++中级篇——函数调用的本质](https://mp.weixin.qq.com/s/g0Q8PKQCXq1LgUGCO_nLNw)
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
@@ -140,7 +145,8 @@
 
 [C++ invoke与function的区别](https://mp.weixin.qq.com/s/qgQUBshw1g-VsUDdpc1QYg
 [异常 | 深度剖析C++ 异常机制](https://mp.weixin.qq.com/s/wO7S4_opnJySQMG0o5ApEw)
-[项目实战：使用 C++17 和 SQLite 实现文件夹大小计算与存储](https://mp.weixin.qq.com/s/1gb_tFPhcKtSnCRMSlPr0g)
+[SQLite | 项目实战：使用 C++17 和 SQLite 实现文件夹大小计算与存储](https://mp.weixin.qq.com/s/1gb_tFPhcKtSnCRMSlPr0g)
+[SQLite | C++高端数据库推荐](https://mp.weixin.qq.com/s/CQXtxMs4Kev6LXewwxDa_A)
 
 
 性能优化
