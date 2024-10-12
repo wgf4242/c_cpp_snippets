@@ -48,3 +48,17 @@ Makefile.patch 使用 patch 命令生成 Makefile
    - have your system administrator add LIBDIR to '/etc/ld.so.conf'
    /bin/bash ./libtool   --mode=install /usr/bin/install -c ecm '/usr/local/bin' 
    libtool: install: /usr/bin/install -c ecm /usr/local/bin/ecm
+
+# FAQ
+
+##　编译时依赖库怎样能打包到程序里呢
+
+1. 静态链接　使用 -static 选项
+gcc -o myprogram myprogram.c -static
+2.  指定静态库
+gcc -o myprogram myprogram.c -L/path/to/static/libraries -lmylib -static
+https://tongyi.aliyun.com/qianwen/?sessionId=b1155bce89cd459ea6f65a0a06820f01
+3. 设置 LD_LIBRARY_PATH：为了让程序知道去哪里找这些库文件，可以设置 LD_LIBRARY_PATH 环境变量。例如：
+export LD_LIBRARY_PATH=/path/to/your/libraries:$LD_LIBRARY_PATH
+4. 使用 rpath 或 runpath：在编译时，可以通过 -Wl,-rpath, 选项指定一个或多个搜索路径，使得程序在运行时能够找到库文件。例如：
+gcc -o myprogram myprogram.c -L/path/to/your/libraries -lmylib -Wl,-rpath,/path/to/your/libraries
