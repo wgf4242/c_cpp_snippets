@@ -149,8 +149,9 @@
 [SQLite | C++高端数据库推荐](https://mp.weixin.qq.com/s/CQXtxMs4Kev6LXewwxDa_A)
 
 
-性能优化
+性能优化/Debug
 [Linux C++性能优化：从编译器到代码，探究高性能C++程序的实现之道](https://mp.weixin.qq.com/s/0paAxMx-DgRl1rHpaRNRWw)
+[内存分析工具的使用——AddressSanitizer](https://mp.weixin.qq.com/s/GkPqAqMjq5EZkuv9f0Nzgw)
 
 ## Video
 
