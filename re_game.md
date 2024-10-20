@@ -5,6 +5,11 @@ lua53-64.dll，直接VEH和DBVM调试。
 [任鸟飞逆向安全](https://space.bilibili.com/413483715)
 https://space.bilibili.com/95835298/video
 
+# 实例
+[ASM | 修改PE入口点方式注入自己编写的DLL——《英雄无敌》1代小回城术修改成大回城术](https://mp.weixin.qq.com/s/4_7lnfXR2URulExbJpNwPg)
+
+# Article
+
 [游戏辅助 -- 三种分析角色坐标方法（CE、xdbg、龙龙遍历工具）](https://mp.weixin.qq.com/s/m460D-97bDrGL2q37c2kbw)
 [游戏辅助 -- MFC获取游戏数据](https://mp.weixin.qq.com/s/NS9c_oPtxFAozsf_byxjHA)
 
