@@ -25,6 +25,7 @@
 [跟我学C++中级篇——字面量和字符串](https://mp.weixin.qq.com/s/iDgwCMP-BIiz0Yl5auTQTw)
 [跟我学C++中级篇——字符串的转化](https://mp.weixin.qq.com/s/-BC2SfvPExltgUoBqHZZkA)
 [跟我学C++中级篇——函数调用的本质](https://mp.weixin.qq.com/s/g0Q8PKQCXq1LgUGCO_nLNw)
+[跟我学C++中级篇——volatile的探究](https://mp.weixin.qq.com/s/KhzhWJRvt5BmnPcvskdJEw)
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
