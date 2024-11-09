@@ -1,5 +1,6 @@
 [Windows安装MinGW及C++及Qt环境和配置](https://mp.weixin.qq.com/s/LJW4fPwf9Y6vAZfUbxtw-w)
 
+[C++新特性：从C++11开始｜第170期](https://mp.weixin.qq.com/s/iSEsi3BJkaxcV9cr3WSLdw)
 
 [C++提效网站](https://mp.weixin.qq.com/s/Nqcj6HTtF5Azb_M9fpny0A)
 [全面盘点C++类型转换](https://mp.weixin.qq.com/s/8JzlknW_uMpkzr5u4E72EA)
