@@ -142,6 +142,7 @@ int _tmain()
 [『免杀系列』DLL劫持](https://mp.weixin.qq.com/s/NqpZyIKg3FvrnotWzz06kg)
 [利用Windows引导程序安全加载DLL](https://mp.weixin.qq.com/s/PYbuROGbtv7ZgJRJwiYv7g)
 [反射DLL注入原理解析](https://mp.weixin.qq.com/s/6Mu7opmPBw7ICVYJgNG66g)
+[Windows进程空洞（Hollow Process ）注入](https://mp.weixin.qq.com/s/CPveNNu3qzhr4FGacxH_cQ)
 
 ## 寻址
 
