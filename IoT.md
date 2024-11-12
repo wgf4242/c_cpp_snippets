@@ -29,6 +29,14 @@ https://microsoft.github.io/devicescript/
 
 [动画演示 | 秒懂物联网 UART、I2C、SPI 三种串行总线通信原理](https://mp.weixin.qq.com/s/_R0jDSkBpGQB_xfHDmCbvQ)
 
+## ESP32C3 资料
+
+[开发板参数](https://item.taobao.com/item.htm?_u=cegfd4f9dc&id=666579064570&spm=a1z09.2.0.0.95132e8d2BzjeK)
+[ESP32C3-CORE开发板文档](http://wiki.luatos.com/chips/esp32c3/board.html)
+[LCD扩展板资料](https://doc.openluat.com/wiki/21)
+[温湿度传感器AHT10资料](https://doc.openluat.com/wiki/21)
+[三轴加速度陀螺仪MPU6050资料](https://doc.openluat.com/wiki/21)
+  
 ## 案例
 
 [仅1.3万元，源码交付 IoT 物联网设备管理运维MES系统，含巡检、维修、保养、盘点、排班、采购管理](https://mp.weixin.qq.com/s/we-L45xj4d8mmRtc7eRhiw)
