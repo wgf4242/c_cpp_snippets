@@ -24,6 +24,7 @@ https://microsoft.github.io/devicescript/
 [立创·天空星STM32编译Micropython固件](https://mp.weixin.qq.com/s/0TepKZUbiE-NUkQi0egjpQ)
 [天空星STM32操作SD卡的方法（基于Micropython）](https://mp.weixin.qq.com/s/RGKgti_aA0BvC9BiR7KmqA)
 [SD卡和屏幕共用一个SPI，实现同时驱动并反复读取](https://mp.weixin.qq.com/s/HXRvQAtBIy6gxsOwCDg_Rw)
+[实战派ESP32S3实战：编译lvgl_micropython固件](https://mp.weixin.qq.com/s/uqEFfTV_E2jNJ5nNcL3RFQ)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 
