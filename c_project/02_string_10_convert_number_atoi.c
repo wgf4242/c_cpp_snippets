@@ -13,15 +13,30 @@ void basic();
 
 void hex_to_str_manual();
 
+void print_hex();
+
 int main() {
     // basic();
+    print_hex();
+
     // left_align_sprintf();
     // left_align_itoa();
     // right_align_snprintf();
 
-    hex_to_str_manual();
+    // hex_to_str_manual();
     return(0);
 
+}
+
+void print_hex() {// print as hex
+    unsigned char digest[16];  // 使用 {0} 将所有元素初始化为0
+    for (int i = 0; i < 16; ++i) {
+        digest[i] = i + 'a';  // 或者其他你想要填充的数据
+    }
+    printf("Digest in hex format: ");
+    for (int i = 0; i < 16; ++i) {
+        printf("%02x", digest[i]);  // %02x 确保输出两位16进制数字，并且是小写
+    }
 }
 
 void hex_to_str_manual() {
