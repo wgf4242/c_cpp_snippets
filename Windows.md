@@ -121,6 +121,7 @@ int _tmain()
 [在 ShellCode 里面使用异常处理(Win64 位平台)](https://mp.weixin.qq.com/s/I2lw1j63QsDmjtKyJalveg)
 
 ### dll/进程 注入/Hook
+https://github.com/Joe1sn/S-inject
 
 [Windows钩子技术与恶意软件应用](https://mp.weixin.qq.com/s/m1tOR8eIVDUWQa12xyW__g)
 [DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
