@@ -27,4 +27,5 @@ void test_printf() {
     printf("hex unsign %X\n", a);
     printf("char %c\n", a);
     printf(" %.2x", b); // 0b
+    printf("输出指定长度4字符: %.4s\n", "123456");
 }
