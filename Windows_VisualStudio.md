@@ -39,6 +39,30 @@ g:\vsstudio\vs_setup.exe
 
 脱机安装所需的证书 - Certificates文件夹下
 
+
+
+# 编译
+
+## 常用设置
+输出目录: $(SolutionDir)$(Platform)\$(Configuration)\
+
+## 优化编译大小
+
+启用代码优化
+使用编译器的优化选项来减小代码大小。在 Visual Studio 中，可以在项目属性的“C/C++” -> “优化”中选择 /O1（最小化大小）选项。
+
+使用静态链接:“C/C++” -> “代码生成”中设置“运行库”。
+  多线程 DLL (MD): 减小 DLL 大小，依赖系统提供的运行时库。
+  多线程 (MT):     增加 DLL 大小，但减少外部依赖。
+
+5. 去除未使用的代码
+使用链接器选项来移除未引用的函数和数据。在 Visual Studio 中，可以在“链接器” -> “优化” - 引用: 中启用“删除未引用的函数(/OPT:REF)”和“启用 COMDAT 消减(/OPT:ICF)”。
+
+### FAQ
+1. /O1”和“/RTC1”命令行选项不兼容
+“C/C++” -> “代码生成”中设置“运行库” -> 默认
+2. 
+
 ## Article
 
 [基于已有项目配置Visual Studio新项目的C++库](https://mp.weixin.qq.com/s/EBy-HpI6S66cSun5pfiI7g)
