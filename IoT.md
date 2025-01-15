@@ -25,6 +25,8 @@ https://microsoft.github.io/devicescript/
 [天空星STM32操作SD卡的方法（基于Micropython）](https://mp.weixin.qq.com/s/RGKgti_aA0BvC9BiR7KmqA)
 [SD卡和屏幕共用一个SPI，实现同时驱动并反复读取](https://mp.weixin.qq.com/s/HXRvQAtBIy6gxsOwCDg_Rw)
 [实战派ESP32S3实战：编译lvgl_micropython固件](https://mp.weixin.qq.com/s/uqEFfTV_E2jNJ5nNcL3RFQ)
+[ESP8266通过MQTT接入Home Assistant（二）](https://mp.weixin.qq.com/s/-CzY9NKkbK-G7u8dYnOmgg)
+[物联网 IoT 传感器点位时序数据存储、实时监测预警和智能决策解决方案——一张表格全搞定！](https://mp.weixin.qq.com/s/m2kyRfoCW5bA1pLbDfDhxg)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 

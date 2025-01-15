@@ -2,6 +2,8 @@
 要勾上 UTF-16
 
 # 微信
+微信逆向：定位功能调用（以文本消息发送为例）	https://www.52pojie.cn/thread-1940500-1-1.html
+本版块<某微信通讯录工具的简单修改>的重点补充	https://www.52pojie.cn/thread-1943215-1-1.html
 * [Video | 学而致用，学而分享之x32 dbg Hook微信实现一些自动化开发(2022)](https://www.bilibili.com/video/BV1dB4y1b79t/) 
 * [PC微信读取微信好友列表(联系人)](https://juejin.cn/post/6844904162317041678)
 * [PC微信Hook实战记录1:找到个人信息](https://juejin.cn/post/6844904015805808647)
