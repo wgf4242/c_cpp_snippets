@@ -1,6 +1,19 @@
 # 环境配置
 
 1. 默认选中提示第一项: 工具 - 选项 - 文本编辑器 - C/C++ - 高级,主动成员列表设置为TRUE即可。 默认需要 Tab完成补全
+2. 使用C++23: 项目 - 属性 - 常规 - C++语言标准
+
+## vcpkg 添加包
+vcpkg https://learn.microsoft.com/zh-cn/vcpkg/get_started/get-started-msbuild?pivots=shell-powershell
+
+```sh
+git clone https://github.com/microsoft/vcpkg.git
+cd vcpkg; .\bootstrap-vcpkg.bat
+.\vcpkg.exe integrate install
+
+# 添加lz4
+vcpkg install lz4
+```
 
 # 添加资源
 
@@ -11,7 +24,8 @@
 
 ## 关闭随机地址
 解决方案管理器-属性 (Ctrl+Shift+E - Alt+Enter) - 链接器 - 高级 - 随机基址 - 否
-
+## 添加include .h文件
+放到  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include
 
 # 下载
 ## 国内加速
