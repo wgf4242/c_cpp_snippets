@@ -14,9 +14,11 @@
 
 
 # 内核编程
+
 [Document 01](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver)
 [Windows内核理论基础学习](https://mp.weixin.qq.com/s/3Ntp7W9T7TLDYpbs61RGFQ)
 [Windows 内核编程》1.环境搭建以及第一个内核程序](https://www.bilibili.com/video/BV1Uw41127Vd/)
+[【Windows 内核基础篇】-内核入门-段基础](https://mp.weixin.qq.com/s/kijs0KxjPWulqI2QVaE_Yw)
 [火哥 Windows内核逆向 | 驱动开发 第6期（更新中）](https://www.bilibili.com/video/BV1GC41157K2)
 [火哥 Windows内核逆向 | 驱动开发 第6期（更新中）| UP主 0x00实验室](https://www.bilibili.com/video/BV1Dy411e72m/)
 [Driver Download](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/download-the-wdk#download-icon-step-3-install-wdk)
