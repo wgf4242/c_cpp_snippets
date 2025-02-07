@@ -123,6 +123,7 @@ int _tmain()
 ### dll/进程 注入/Hook
 https://github.com/Joe1sn/S-inject
 
+[[原创] 图解远程线程注入技术（新手向）](https://bbs.kanxue.com/thread-284080.htm)
 [Windows钩子技术与恶意软件应用](https://mp.weixin.qq.com/s/m1tOR8eIVDUWQa12xyW__g)
 [DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
 [DLL 显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
