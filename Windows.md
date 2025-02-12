@@ -145,7 +145,8 @@ https://github.com/Joe1sn/S-inject
 [『免杀系列』DLL劫持](https://mp.weixin.qq.com/s/NqpZyIKg3FvrnotWzz06kg)
 [利用Windows引导程序安全加载DLL](https://mp.weixin.qq.com/s/PYbuROGbtv7ZgJRJwiYv7g)
 [反射DLL注入原理解析](https://mp.weixin.qq.com/s/6Mu7opmPBw7ICVYJgNG66g)
-[Windows进程空洞（Hollow Process ）注入](https://mp.weixin.qq.com/s/CPveNNu3qzhr4FGacxH_cQ)
+[Hollow | Windows进程空洞（Hollow Process ）注入](https://mp.weixin.qq.com/s/CPveNNu3qzhr4FGacxH_cQ)
+[Hollow | Process Hollowing on Windows 11 24H2](https://hshrzd.wordpress.com/2025/01/27/process-hollowing-on-windows-11-24h2/)
 [【原创】优雅地在 Hook 时替换 std::string 的内容](https://www.52pojie.cn/thread-1905246-1-1.html)
 
 ## 寻址
