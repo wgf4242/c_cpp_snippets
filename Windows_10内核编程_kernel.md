@@ -33,6 +33,7 @@
 [进程与线程-EPROCESS&ETHREAD&KPCR](https://mp.weixin.qq.com/s/fxQUbD-OAlt57a9-28EShQ)
 [进程与线程-内核隐藏进程](https://mp.weixin.qq.com/s/x3Lap1OMR3acMyIUJsWCug)
 [进程与线程-模拟线程切换](https://mp.weixin.qq.com/s/CnbiMbHh_5FwHCYTRuXJdQ)
+[R0下一种简单的Irp包数据捕获方法](https://mp.weixin.qq.com/s/JbPW0FzRJFCFb5OVdS-LkA)
 
 ## package
 [TitanHide 泰坦驱动  github开源](https://github.com/mrexodia/TitanHide)

@@ -36,6 +36,8 @@ https://space.bilibili.com/95835298/video
 
 ## 具体示例
 [《英雄无敌》4：修改pe导入表注入DLL扩展回城术功能](https://mp.weixin.qq.com/s/oCR8aGhtRSTcg9CbeJTqzw)
+[某二次元开放世界冒险游戏反作弊分析报告 ](https://www.52pojie.cn/thread-2006371-1-1.html)
+
 # 变速
 [揭秘用户模式进程变速原理和C++实现](https://www.bilibili.com/video/BV19j411H74q/)
 
