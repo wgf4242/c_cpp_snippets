@@ -33,6 +33,7 @@ https://space.bilibili.com/95835298/video
 
 [逆向植物大战僵尸](https://www.bilibili.com/video/BV1uk4y1x7RA/)
 [极安御信网络安全系列课程-01.游戏逆向](https://www.bilibili.com/video/BV1pA411z7PF/)
+[第四课去除Cheat Engine和驱动的特征](https://www.bilibili.com/video/BV1jQA6e3EEx)
 
 ## 具体示例
 [《英雄无敌》4：修改pe导入表注入DLL扩展回城术功能](https://mp.weixin.qq.com/s/oCR8aGhtRSTcg9CbeJTqzw)
