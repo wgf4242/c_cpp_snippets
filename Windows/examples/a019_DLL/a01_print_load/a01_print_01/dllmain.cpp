@@ -8,6 +8,27 @@ extern "C" __declspec(dllexport) int add(int a, int b)
 	return a + b;
 }
 
+// 新增函数，使用 char* 参数
+extern "C" __declspec(dllexport) void printString(char* str)
+{
+    if (str != NULL) {
+        printf("The string is: %s\n", str);
+    }
+}
+
+// 新增返回 char* 的函数
+extern "C" __declspec(dllexport) char* getString()
+{
+    static char result[] = "This is a string from DLL!";
+    return result;
+}
+
+// 新增返回 int* 的函数
+extern "C" __declspec(dllexport) int* getIntArray()
+{
+    static int arr[3] = { 1, 2, 3 };
+    return arr;
+}
 
 int add2(int a, int b)
 {
@@ -22,6 +43,19 @@ struct MyStruct {
 // 修改后的函数
 int add3(struct MyStruct s) {
 	return s.a + s.b + 2; // 返回 struct.a + struct.b + 2
+}
+
+// 定义一个简单的函数类型
+typedef int (*MyFunction)(int);
+
+// 一个示例函数
+int addOne(int num) {
+    return num + 1;
+}
+
+// 返回函数指针的函数
+extern "C" __declspec(dllexport) MyFunction getFunction() {
+    return addOne;
 }
 
 
