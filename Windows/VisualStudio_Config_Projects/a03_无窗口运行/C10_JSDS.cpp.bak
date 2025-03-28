@@ -1,0 +1,77 @@
+﻿#define _WINSOCK_DEPRECATED_NO_WARNINGS
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <winsock2.h>
+#include <windows.h>
+
+#pragma comment(lib, "Ws2_32.lib")
+
+void sendFileContent(SOCKET& sock, const std::string& filePath) {
+    std::ifstream file(filePath);
+    if (!file.is_open()) {
+        std::cerr << "无法打开文件: " << filePath << std::endl;
+        return;
+    }
+
+    std::string content((std::istreambuf_iterator<char>(file)), std::istreambuf_iterator<char>());
+    int result = send(sock, content.c_str(), content.size(), 0);
+    if (result == SOCKET_ERROR) {
+        std::cerr << "发送失败，错误代码: " << WSAGetLastError() << std::endl;
+    } else {
+        std::cout << "发送成功: " << content << std::endl;
+    }
+}
+
+int main(int argc, char* argv[]) {
+    if (argc != 5 || std::string(argv[3]) != "-f") {
+        std::cerr << "使用方法: " << argv[0] << " <ip> <port> -f <filename>" << std::endl;
+        return 1;
+    }
+
+    std::string ip = argv[1];
+    int port = std::stoi(argv[2]);
+    std::string filePath = argv[4];
+
+    WSADATA wsaData;
+    SOCKET sock = INVALID_SOCKET;
+    struct sockaddr_in server;
+
+    // 初始化Winsock
+    if (WSAStartup(MAKEWORD(2, 2), &wsaData) != 0) {
+        std::cerr << "WSAStartup失败，错误代码: " << WSAGetLastError() << std::endl;
+        return 1;
+    }
+
+    // 创建套接字
+    sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
+    if (sock == INVALID_SOCKET) {
+        std::cerr << "创建套接字失败，错误代码: " << WSAGetLastError() << std::endl;
+        WSACleanup();
+        return 1;
+    }
+
+    // 设置服务器地址
+    server.sin_family = AF_INET;
+    server.sin_port = htons(port);
+    server.sin_addr.s_addr = inet_addr(ip.c_str());
+
+    // 连接服务器
+    if (connect(sock, (struct sockaddr*)&server, sizeof(server)) == SOCKET_ERROR) {
+        std::cerr << "连接失败，错误代码: " << WSAGetLastError() << std::endl;
+        closesocket(sock);
+        WSACleanup();
+        return 1;
+    }
+
+    // 每5秒发送一次文件内容
+    while (true) {
+        sendFileContent(sock, "file.txt");
+        Sleep(5000); // 5秒
+    }
+
+    // 关闭套接字
+    closesocket(sock);
+    WSACleanup();
+    return 0;
+}

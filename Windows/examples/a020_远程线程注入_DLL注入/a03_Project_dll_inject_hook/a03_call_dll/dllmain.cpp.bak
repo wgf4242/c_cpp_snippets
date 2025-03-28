@@ -1,0 +1,43 @@
+﻿// dllmain.cpp : 定义 DLL 应用程序的入口点。
+#include "pch.h"
+#include <windows.h>
+#include <psapi.h>
+#include <iostream>
+#include <string> // 添加这行
+
+BOOL APIENTRY DllMain( HMODULE hModule,
+                       DWORD  ul_reason_for_call,
+                       LPVOID lpReserved
+                     )
+{
+    switch (ul_reason_for_call)
+    {
+    case DLL_PROCESS_ATTACH:
+        MessageBoxA(0, "Injected", "消息", 3); 
+        HMODULE hMods[1024];
+        DWORD cbNeeded;
+
+        //// 枚举当前进程加载的所有模块
+        //if (EnumProcessModules(GetCurrentProcess(), hMods, sizeof(hMods), &cbNeeded)) {
+        //    //加载该DLL的进程的基址
+        //    HMODULE hExe = GetModuleHandle(NULL);
+        //    char buffer[100];
+        //    sprintf_s(buffer, "Process base address1: 0x%p\n", hExe);
+        //    OutputDebugStringA(buffer);
+        //}
+
+        //加载该DLL的进程的基址
+        HMODULE hExe = GetModuleHandle(NULL);
+        char buffer[100];
+        sprintf_s(buffer, "Process base address1: 0x%p\n", hExe);
+        OutputDebugStringA(buffer);
+        break;
+
+    case DLL_THREAD_ATTACH:
+    case DLL_THREAD_DETACH:
+    case DLL_PROCESS_DETACH:
+        break;
+    }
+    return TRUE;
+}
+

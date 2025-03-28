@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "新建配置文件",
+    "Projects": [
+      {
+        "Path": "a02_BaseWindow_02_直接启动Dialog\\WindowsProject1.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "本地 Windows 调试器"
+      },
+      {
+        "Path": "a04_dll_debug\\a04_dll_debug.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "本地 Windows 调试器"
+      }
+    ]
+  }
+]
