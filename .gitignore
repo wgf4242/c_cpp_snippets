@@ -6,4 +6,9 @@ main/cmake-*
 main/cpp_project_output/
 cpp_project/cmake-build-debug/
 Debug/
+Release/
 .vs
+
+# Windows Visual Studio
+**/*.aps
+.visualgdb/

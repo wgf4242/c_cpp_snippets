@@ -18,6 +18,12 @@ set(CMAKE_BUILD_TYPE "Release")
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O3")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3")
 
+## 设置为32位
+set(CMAKE_C_COMPILER "D:/mingw32/bin/gcc.exe")
+set(CMAKE_CXX_COMPILER "D:/mingw32/bin/g++.exe")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -m32")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -m32")
+
 ```
 
 # Make

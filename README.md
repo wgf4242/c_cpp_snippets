@@ -729,6 +729,9 @@ https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-m
 
 [从零开始编写简易调试器](https://mp.weixin.qq.com/s/ah29tzVT2B_4mx5wxSNlzA)
 
+## Package
+
+* 命令行 | CLI11 或 cxxopts、Boost.Program_options、
 ## Book
 
 深度探索 C++对象模型

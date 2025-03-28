@@ -27,6 +27,7 @@
 [跟我学C++中级篇——字符串的转化](https://mp.weixin.qq.com/s/-BC2SfvPExltgUoBqHZZkA)
 [跟我学C++中级篇——函数调用的本质](https://mp.weixin.qq.com/s/g0Q8PKQCXq1LgUGCO_nLNw)
 [跟我学C++中级篇——volatile的探究](https://mp.weixin.qq.com/s/KhzhWJRvt5BmnPcvskdJEw)
+[跟我学C++中级篇——std::not_fn](https://mp.weixin.qq.com/s/6lbr62Jpyd3w3rBdX0gBig)
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
@@ -320,6 +321,8 @@
 [C语言轻松拿捏注册表](https://mp.weixin.qq.com/s/lp_OlfO5kXYWry6wnMd9Sg)
 [为什么嵌入式底层经常用typedef？](https://mp.weixin.qq.com/s/kotYWdLd8MoJCw1UjR8d8w)
 [C语言——extern外部变量以及函数声明和定义](https://mp.weixin.qq.com/s/De3muOjr1oAqWInvo2IYTA)
+
+[Protobuf | gRPC | gRPC 实战篇：从零打造库存管理系统](https://mp.weixin.qq.com/s/IHx_adYiCFf8kAY39jnwLw)
 
 # Project
 [Re0: 从零实现一个解除文件占用的小工具](https://mp.weixin.qq.com/s/WC9kTKfl7qAH9--lt6gyqw)
