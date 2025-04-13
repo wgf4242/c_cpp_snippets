@@ -31,6 +31,9 @@ gcc -o test test.c // 默认情况下，不开启Canary保护
 gcc -fno-stack-protector -o test test.c //禁用栈保护
 gcc -fstack-protector -o test test.c //启用堆栈保护，不过只为局部变量中含有 char 数组的函数插入保护代码
 gcc -fstack-protector-all -o test test.c //启用堆栈保护，为所有函数插入保护代码
+
+# win 下编译输出 GBK编码
+gcc -finput-charset=GBK -fexec-charset=GBK testadd.c -o main.exe
 ```
 
 链接参数 LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section

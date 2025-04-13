@@ -29,6 +29,7 @@ https://microsoft.github.io/devicescript/
 [物联网 IoT 传感器点位时序数据存储、实时监测预警和智能决策解决方案——一张表格全搞定！](https://mp.weixin.qq.com/s/m2kyRfoCW5bA1pLbDfDhxg)
 [基于Buildroot的嵌入式系统交叉编译技巧](https://mp.weixin.qq.com/s/c_1IQPdeY1IRuKLQgEBizA)
 [国产开源 Web-SCADA工业组态软件平台，支持二次开发，助力企业项目交付](https://mp.weixin.qq.com/s/t22OCOyL3pNmIbu1SGk40Q)
+[嵌入式入门必学：STM32矩阵键盘驱动从0到1实战指南](https://mp.weixin.qq.com/s/fpLj8ps-O6_zcevd2ka8pQ)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 

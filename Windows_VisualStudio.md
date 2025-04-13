@@ -16,6 +16,8 @@ cd vcpkg; .\bootstrap-vcpkg.bat
 vcpkg install lz4
 ```
 
+
+
 ## 环境配置
 
 ### 环境变量/调试启动目录
@@ -28,6 +30,27 @@ vcpkg install lz4
 链接器->所有选项
 ->入口点->输入 mainCRTStartup
 ->子系统->窗口 Windows
+
+### 使用Python.h编译程序/无法打开文件“python310_d.lib”
+
+1.安装时√
+√Precompile standard library
+√Download debugging symbols
+√Download debug binaries (requires VS 2017 or later)
+2.Project->右键"属性"->VC++-> 包含目录 #配置 3.10.3\include\
+3.Project->右键"属性"->VC++-> 库目录   #配置 3.10.3\libs
+4.切换成配置的Debug/Release
+
+```
+#include <Python.h>
+
+int main() {
+    Py_Initialize();  // 初始化解释器
+    // 执行Python相关操作
+    Py_Finalize();    // 清理解释器资源
+    return 0;
+}
+```
 
 ## DLL 调试
 
@@ -94,7 +117,17 @@ g:\vsstudio\vs_setup.exe
 脱机安装所需的证书 - Certificates 文件夹下
 
 # 编译
+## 命令行
 
+```sh
+# 最小化
+call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvars64.bat"
+cl testadd.c /Fe:TestAdd.exe /O1
+# 禁止内联优化 有的函数就优化没了
+cl testadd.c /Fe:TestAdd.exe /O1 /MT /Zi- /GS- /GL /Ob0
+# 关闭随机地址
+cl testadd.c /Fe:TestAdd.exe /O1 /MT /Zi- /GS- /GL /Ob0 /DYNAMICBASE:NO
+```
 ## 常用设置
 
 输出目录: $(SolutionDir)$(Platform)\$(Configuration)\
