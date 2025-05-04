@@ -1,0 +1,1 @@
+[Windows桌面自动化测试工具：WinAppDriver](https://mp.weixin.qq.com/s/VV0tneQIwg6fdMR2t64-zA)

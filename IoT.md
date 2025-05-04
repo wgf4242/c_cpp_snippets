@@ -1,0 +1,54 @@
+https://microsoft.github.io/devicescript/
+
+# Article
+[平台 | 协议介绍 | 物联网快速学习入门指南](https://mp.weixin.qq.com/s/ySIqybBmV1yZE1OwOBzImg)
+[工具 | 分享一个非常有用的虚拟串口工具](https://mp.weixin.qq.com/s/TURLmhZXCQUi5PL0HM4BcA)
+[没有原理图，如何找出每个模块的引脚？](https://mp.weixin.qq.com/s/01TrcEgtrWD751_1C83Xkw)
+[【ESP32 & Arduino】ESP32入门之环境安装](https://blog.jamiexu.cn/2022/11/23/%E3%80%90ESP32%20&%20Arduino%E3%80%91ESP32%E5%85%A5%E9%97%A8%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E4%B9%8B%E7%82%B9%E4%BA%AE%E7%AC%AC%E4%B8%80%E9%A2%97LED/)
+[【STM32&I2C(IIC)&Proteus】基于STM32的Proteus下I2C仿真](https://blog.jamiexu.cn/2023/04/20/%E3%80%90STM32&I2C(IIC)&ROM&RAM&Proteus%E3%80%91IIC%E5%8D%8F%E8%AE%AE%E5%92%8C%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%9F%BA%E4%BA%8ESTM32%E7%9A%84Proteus%E4%B8%8BI2C%E4%BB%BF%E7%9C%9F/)
+[物联网安全之qiling框架初探](https://mp.weixin.qq.com/s/WTWD24dasuTbfghntqnsLQ)
+[用 亿 点 点 代码将ESP32接入ChatGpt](https://www.bilibili.com/video/BV1bv411c7CV/)
+[ESP32-C3蓝牙小车获奖了](https://mp.weixin.qq.com/s/ewEzvBAaNAwcDHBTkMlbjg)
+[合宙ESP32-S3刷入MicroPython固件并点亮LED灯](https://mp.weixin.qq.com/s/QfHwNbOm3_f1a4Ar_Vn2HQ)
+[固件、驱动、示例和相关软件下载](https://mp.weixin.qq.com/s/7RtQyvU2XMCBPLl1QLfSvA)
+[ESP32-S3通过LCD显示JPG、PNG图片(基于Micropython)](https://mp.weixin.qq.com/s/zySZuR9VpvlTjzJy0ELNoA)
+[ESP32使用SDIO驱动SD卡模块](https://mp.weixin.qq.com/s/7LvjztQpp9nxBpz5pCDcsQ)
+[ESP32-S3实时显示摄像头拍摄的画面(基于Micropython)](https://mp.weixin.qq.com/s/ElWBqrbIKa6pSG2wELBVqA)
+[基于ESP32-C3的智慧卫生间方案设计](https://mp.weixin.qq.com/s/92oK1ttnnUBSqNb-7k5MPQ)
+[ESP32-C3驱动墨水屏并显示图片（基于Micropython）](https://mp.weixin.qq.com/s/tHU1i0hN5YtI6oo9bs2lrg)
+[平台 | FluxMQ: 开源云原生高性能的IOT平台](https://mp.weixin.qq.com/s/512T3hXHKtihoA1fpLfBVg)
+[ESP32-S3-EYE实现卡片相机的拍照功能(基于Micropython)](https://mp.weixin.qq.com/s/tsnBCgmheza2IwUPgYdSoQ)
+[ESP32-C3墨水屏电子时钟（基于Micropython）](https://mp.weixin.qq.com/s/RWmwi3iqkqjetavBAwcnGQ)
+[100 个物联网项目创意（IOT项目）](https://mp.weixin.qq.com/s/anUvrAUlQ7fzFHq6qAh8Mw)
+[一篇讲透物联网自定义的TCP协议](https://mp.weixin.qq.com/s/Dpm0epDQ9_MOoQhTF9cbmg)
+[立创·天空星STM32编译Micropython固件](https://mp.weixin.qq.com/s/0TepKZUbiE-NUkQi0egjpQ)
+[天空星STM32操作SD卡的方法（基于Micropython）](https://mp.weixin.qq.com/s/RGKgti_aA0BvC9BiR7KmqA)
+[SD卡和屏幕共用一个SPI，实现同时驱动并反复读取](https://mp.weixin.qq.com/s/HXRvQAtBIy6gxsOwCDg_Rw)
+[实战派ESP32S3实战：编译lvgl_micropython固件](https://mp.weixin.qq.com/s/uqEFfTV_E2jNJ5nNcL3RFQ)
+[ESP8266通过MQTT接入Home Assistant（二）](https://mp.weixin.qq.com/s/-CzY9NKkbK-G7u8dYnOmgg)
+[物联网 IoT 传感器点位时序数据存储、实时监测预警和智能决策解决方案——一张表格全搞定！](https://mp.weixin.qq.com/s/m2kyRfoCW5bA1pLbDfDhxg)
+[基于Buildroot的嵌入式系统交叉编译技巧](https://mp.weixin.qq.com/s/c_1IQPdeY1IRuKLQgEBizA)
+[国产开源 Web-SCADA工业组态软件平台，支持二次开发，助力企业项目交付](https://mp.weixin.qq.com/s/t22OCOyL3pNmIbu1SGk40Q)
+[嵌入式入门必学：STM32矩阵键盘驱动从0到1实战指南](https://mp.weixin.qq.com/s/fpLj8ps-O6_zcevd2ka8pQ)
+[#框架 | 强烈推荐！蜂鸟 HummingBird 国产开源轻量级 IoT 物联网平台！支持物模型、Web组态可视化大屏](https://mp.weixin.qq.com/s/JW7HHoE7OE5KNpSEtxTrfw)
+
+[DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
+
+[动画演示 | 秒懂物联网 UART、I2C、SPI 三种串行总线通信原理](https://mp.weixin.qq.com/s/_R0jDSkBpGQB_xfHDmCbvQ)
+## ESP32C3 资料
+
+[开发板参数](https://item.taobao.com/item.htm?_u=cegfd4f9dc&id=666579064570&spm=a1z09.2.0.0.95132e8d2BzjeK)
+[ESP32C3-CORE开发板文档](http://wiki.luatos.com/chips/esp32c3/board.html)
+[LCD扩展板资料](https://doc.openluat.com/wiki/21)
+[温湿度传感器AHT10资料](https://doc.openluat.com/wiki/21)
+[三轴加速度陀螺仪MPU6050资料](https://doc.openluat.com/wiki/21)
+  
+## 案例
+
+[仅1.3万元，源码交付 IoT 物联网设备管理运维MES系统，含巡检、维修、保养、盘点、排班、采购管理](https://mp.weixin.qq.com/s/we-L45xj4d8mmRtc7eRhiw)
+[雨季来临， IoT 物联网助力城市防汛排涝监测预警智能解决方案](https://mp.weixin.qq.com/s/Ior_34zRSAGzz3eo4X8Aig)
+[物联网边缘计算盒子，智能 AI 视频监控赋能智慧加油站，守护生命安全每一天](https://mp.weixin.qq.com/s/rZI_4fF5tfJFmssrEqcEuA)
+[仅1.6万元，100%源码交付企业级开源 AIoT 物联网平台，可视化Web组态大屏，二次开发项目](https://mp.weixin.qq.com/s/r6nNViYY5ofOz_7PdtfNoA)
+
+# Tutorials
+[IoT- From Basic to Advanced](https://www.0daydown.com/04/2381098.html)

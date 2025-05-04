@@ -1,0 +1,6 @@
+# ignore everything
+*
+# do not ignore app
+!**/*.c
+!**/*.cpp
+!**/*.h

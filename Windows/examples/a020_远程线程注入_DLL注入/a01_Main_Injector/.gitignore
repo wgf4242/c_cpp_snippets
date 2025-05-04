@@ -1,0 +1,14 @@
+**/.idea
+**/.vscode
+main/c_project_output/
+main/cmake-build-debug/
+main/cmake-*
+main/cpp_project_output/
+cpp_project/cmake-build-debug/
+Debug/
+Release/
+.vs
+
+# Windows Visual Studio
+**/*.aps
+.visualgdb/

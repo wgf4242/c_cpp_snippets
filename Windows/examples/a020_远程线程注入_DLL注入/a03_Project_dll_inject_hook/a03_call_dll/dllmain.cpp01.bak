@@ -1,0 +1,74 @@
+﻿// dllmain.cpp : 定义 DLL 应用程序的入口点。
+#include "pch.h"
+#include <windows.h>
+#include <psapi.h>
+#include <iostream>
+#include <string> // 添加这行
+#include <functional> // 添加这行
+
+// 定义一个新的函数指针类型
+typedef void (*FnShowType)();
+
+// 创建一个全局的 std::function 来包装原始的 fnShow
+std::function<void()> wrappedFnShow = nullptr;
+
+BOOL APIENTRY DllMain(HMODULE hModule,
+                      DWORD  ul_reason_for_call,
+                      LPVOID lpReserved)
+{
+    HMODULE hExe = NULL; // 初始化 hExe
+    int offset = 0x1A014;
+    uintptr_t ptr_g_counter;
+    uintptr_t fnShow;
+    int ptrShow_offset = 0x0011860;
+
+    switch (ul_reason_for_call)
+    {
+    case DLL_PROCESS_ATTACH:
+        MessageBoxA(0, "Injected", "消息", 3); 
+
+        //加载该DLL的进程的基址
+        hExe = GetModuleHandle(NULL);
+        char buffer[100];
+        sprintf_s(buffer, "Process base address1: 0x%p\n", hExe);
+        OutputDebugStringA(buffer);
+
+        // 计算目标地址
+        ptr_g_counter = (uintptr_t)hExe + offset;
+        fnShow = (uintptr_t)hExe + ptrShow_offset;
+
+        // 为了简化示例，我们直接输出目标地址，实际应用中你可能需要通过ReadProcessMemory来读取该地址的数据
+        sprintf_s(buffer, "g_counter address: 0x%p\n", (void*)ptr_g_counter);
+        OutputDebugStringA(buffer);
+
+        // 初始化 wrappedFnShow
+        wrappedFnShow = [ptr_g_counter, fnShow]() {
+            // 每次调用 fnShow 时，增加 ptr_g_counter 的值
+            int* pCounter = (int*)ptr_g_counter;
+            *pCounter += 5;
+
+            // 调用原始的 fnShow 函数
+            FnShowType originalFnShow = (FnShowType)fnShow;
+            originalFnShow();
+        };
+
+        // 不在这里直接调用 wrappedFnShow
+        // wrappedFnShow();
+
+        break;
+
+    case DLL_THREAD_ATTACH:
+    case DLL_THREAD_DETACH:
+    case DLL_PROCESS_DETACH:
+        break;
+    }
+    return TRUE;
+}
+
+// 在需要的地方调用 wrappedFnShow
+void CallWrappedFnShow() {
+    if (wrappedFnShow) {
+        wrappedFnShow();
+    }
+}
+

@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    size_t *p1, *p2, *p3, *p4, *p5;
+    size_t fake_chunk[4];
+    fake_chunk[0] = 0;
+    fake_chunk[1] = 0x60; // size 不一致，报错 找到 glibc 源码 malloc.c 复制到当前目录，调试可进入源码
+    p1 = malloc(0x60);
+    p2 = malloc(0x60);
+    free(p1);
+    free(p2);
+    free(p1);
+    p3 = malloc(0x60);
+    p3[0] = fake_chunk;
+    p3 = malloc(0x60);
+    p3 = malloc(0x60);
+    p3 = malloc(0x60);
+
+    return 0;
+}
