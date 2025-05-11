@@ -2,6 +2,12 @@
 要勾上 UTF-16
 
 # 微信
+[微信逆向之自己动手去除微信多开限制，小白也能看懂](https://www.52pojie.cn/thread-1951224-1-1.html)
+  - [#多开 | [调试逆向] 微信逆向：防多开检测原理和绕过 ](https://www.52pojie.cn/thread-1944151-1-1.html) 
+  - [#多开 | 微信逆向：防多开检测原理和绕过](https://www.kn0sky.com/) 
+  - [#多开 | 微信多开PC版微信](https://blog.csdn.net/izwmain/article/details/136168934) 
+
+[微信发送call寻找&调用](https://www.52pojie.cn/thread-1948442-1-1.html)
 微信逆向：定位功能调用（以文本消息发送为例）	https://www.52pojie.cn/thread-1940500-1-1.html
 本版块<某微信通讯录工具的简单修改>的重点补充	https://www.52pojie.cn/thread-1943215-1-1.html
 * [PC微信hook逆向教程](https://study.163.com/course/courseMain.htm)
