@@ -331,7 +331,9 @@
 [#工具 | C++性能测试工具——Vtune等的介绍](https://mp.weixin.qq.com/s/T74VwUwyOz1EOXAQYRDSWg)
 [#工具 | C++性能测试工具——Vtune的使用](https://mp.weixin.qq.com/s/jqxM8gy5B4nB1cQFScbCLg)
 [#工具 | C++性能测试工具——AMD CodeAnalyst及其新工具的使用](https://mp.weixin.qq.com/s/QuTOhb2IqPh0nNd9l8FayA)
-
+[#工具 | C++性能测试工具——sysprof的使用](https://mp.weixin.qq.com/s/KiGc7eqHsJNruWHi4xm_Hw)
+[#工具 | c++性能测试工具——Oprofile的使用](https://mp.weixin.qq.com/s/W3Byt1oUViL_JJqSN3I0wQ)
+[#工具 | c++性能测试工具——Callgrind的使用](https://mp.weixin.qq.com/s/o_FNRH9ADpfaJZGun9S07A)
 # Project
 [Re0: 从零实现一个解除文件占用的小工具](https://mp.weixin.qq.com/s/WC9kTKfl7qAH9--lt6gyqw)
 

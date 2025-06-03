@@ -31,6 +31,7 @@ https://microsoft.github.io/devicescript/
 [国产开源 Web-SCADA工业组态软件平台，支持二次开发，助力企业项目交付](https://mp.weixin.qq.com/s/t22OCOyL3pNmIbu1SGk40Q)
 [嵌入式入门必学：STM32矩阵键盘驱动从0到1实战指南](https://mp.weixin.qq.com/s/fpLj8ps-O6_zcevd2ka8pQ)
 [#框架 | 强烈推荐！蜂鸟 HummingBird 国产开源轻量级 IoT 物联网平台！支持物模型、Web组态可视化大屏](https://mp.weixin.qq.com/s/JW7HHoE7OE5KNpSEtxTrfw)
+[国产开源车联网GPS定位、轨迹和视频监控平台，支持部标808、1078协议、苏标ADAS协议，兼容康凯斯、博实结、海康设备](https://mp.weixin.qq.com/s/8qm4WkM2YPyuvkXU2Wqczg)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 

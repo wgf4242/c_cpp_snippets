@@ -1,5 +1,5 @@
 # [PC微信hook逆向教程](https://www.bilibili.com/video/BV1it411F7w8) (https://study.163.com/course/courseLearn.htm?courseId=1209558809#/learn/video?lessonId=1279878242&courseId=1209558809)
-[Video | X86软件逆向分析实战（一）](https://www.bilibili.com/video/BV1PG4y1n7MB/) (https://edu.csdn.net/learn/26500/336142)
+[Video | X86软件逆向分析实战（一）](https://www.bilibili.com/video/BV1PG4y1n7MB/) [L2](https://edu.csdn.net/learn/26500/336142)
 [x86/x64软件逆向分析【提高篇】](https://edu.csdn.net/course/detail/32772)
 [x86/x64软件逆向分析【拓展篇】](https://edu.csdn.net/course/detail/35817)
 

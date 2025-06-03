@@ -32,6 +32,8 @@ vcpkg install lz4
 ->子系统->窗口 Windows
 
 ### 使用Python.h编译程序/无法打开文件“python310_d.lib”
+[Windows下Visual Studio无法引入Python.h文件](https://blog.csdn.net/weixin_44575152/article/details/114186758)
+`Cython2_pybind11\a01_pybind11_basic`
 
 1.安装时√
 √Precompile standard library
