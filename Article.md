@@ -259,9 +259,12 @@
 [CMake: 检测Python模块和包](https://mp.weixin.qq.com/s/0gOYGsXx_ZGtisUK5eyvng)
 [CMake:配置时运行自定义命令](https://mp.weixin.qq.com/s/PjqU8q9tkWYSgYu-Aglpfg)
 [CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
+[CMake: 配置时生成源码](https://mp.weixin.qq.com/s/Lv8FMN9WHdcWDNIUF5D4Wg)
+
+## Makefile
+[Makefile基础入门一：从编译小白到自动化构建达人](https://mp.weixin.qq.com/s/f4zbG0D5Sk6XtWLOjIg90A)
 [一些通用的Makefile文件模板](https://mp.weixin.qq.com/s/jKoGezTJKFbIw7Efiea2ww)
 [从版本1到版本5如何编写牛逼的Makefile](https://mp.weixin.qq.com/s/a9vg0r7wRA84947CRl5beg)
-[CMake: 配置时生成源码](https://mp.weixin.qq.com/s/Lv8FMN9WHdcWDNIUF5D4Wg)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
