@@ -70,6 +70,7 @@
 [跟我学C++中级篇——零长度数组](https://mp.weixin.qq.com/s/FkYfDJXPgpB0urYIdEh8mA)
 [跟我学C++中级篇——const和constexpr的使用](https://mp.weixin.qq.com/s/0piEOFV6iWmCrQ-qZ0vk0Q)
 [跟我学C++中级篇——if constexpr的应用](https://mp.weixin.qq.com/s/nPwb34Ofzstsuq_fyVSg0w)
+[跟我学c++中级篇——多线程中的文件处理](https://mp.weixin.qq.com/s/hhLJ0kqGul8SxUI779n-Iw)
 [C++ 中的返回值优化](https://mp.weixin.qq.com/s/UI56112_jitpN3g-ULJ-1w)
 [跟我学c++中级篇——模板的调试](https://mp.weixin.qq.com/s/It2mhMEieK7EvMubSRNHgQ)
 [auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
@@ -234,37 +235,6 @@
 [ZXing QRCode二维码](https://mp.weixin.qq.com/s/o0BiAtyMPERgCqb4r05ADw)
 [Folly | C++ 高端基础库推荐](https://mp.weixin.qq.com/s/n_pYRUFjkZ0bFz4Toli4og)
 
-# CMake
-[使用CMake编译程序](https://mp.weixin.qq.com/s/rhFscfiSPq5SkSV-aEiT2g)
-[Visual Studio 功能增强：CMake 目标视图](https://mp.weixin.qq.com/s/iNMX4vqwE3F_gVWZnKgLbA)
-[CMake 中库文件的管理](https://mp.weixin.qq.com/s/n_rPdaqPeckW9iO_KyQ5rg)
-[CMake:检测环境](https://mp.weixin.qq.com/s/OMSe7xkCgPEtm09Db8_YwQ)
-[CMake最最最核心用法](https://mp.weixin.qq.com/s/uR78kMs6z38FzHRCIjgHeA)
-[CMake入门教程 | 基础语法，静态库与动态库的制作和使用以及CMake流程控制](https://mp.weixin.qq.com/s/O90prTpwlIRQv8Tew3RMVw)
-[CMake:利用CTest进行单元测试](https://mp.weixin.qq.com/s/OfC2CvAUFGMrTIh9FrR2XA)
-[CMake 中多模块的管理](https://mp.weixin.qq.com/s/xPwWF0DVC3hqYZRR8MxWEA)
-[一个简单的CMake入门之旅](https://mp.weixin.qq.com/s/nJcTKrjxF7je7Xy0oIfZ5g)
-[GCC、CMake、CMakelist、Make、Makefile、Ninja啥关系？一图讲透！](https://mp.weixin.qq.com/s/a9iKuVEl6_TFrhbpjTejGw)
-[CMake 备忘清单](https://mp.weixin.qq.com/s/N6mbeCOVC8q3QTwdVAZHdw)
-[CMake:使用控制流](https://mp.weixin.qq.com/s/30twsD_3t3QUj-ge6AqJOg
-[CMake:检测python解释器和python库](https://mp.weixin.qq.com/s/trL7AlZl7FgMoIBRzN_Fkw
-[CMake:设置语言标准(三)](https://mp.weixin.qq.com/s/H7kLF4d_iQ2wkTFGlbI2vg
-[CMake 指定程序构建类型](https://mp.weixin.qq.com/s/JOi6WA_uclvmdeTF2qjVXg)(9月28日)
-[CMake 中流程控制与函数](https://mp.weixin.qq.com/s/T-mt9Mrh9BKny5wBeC3Htg)
-[小白也可以玩转CMake之常用必备](https://mp.weixin.qq.com/s/pWbiS_fvbhrrJxSBXD6Mfw)
-[CMake:检测外部库---使用pkg-config](https://mp.weixin.qq.com/s/sUCrI7P3tvHDYoAnPEXzLg)
-[CMake:检测外部库---自定义find模块](https://mp.weixin.qq.com/s/37XSY6BwIblf4HFVkGcVQA)
-[CMake 中构建和使用库文件](https://mp.weixin.qq.com/s/vFZERkhNeEILogoFE-FN5w)
-[CMake:测试的其他补充（重要）](https://mp.weixin.qq.com/s/Zf3LpI5ZDqpNewhA3lVMpw)
-[CMake: 检测Python模块和包](https://mp.weixin.qq.com/s/0gOYGsXx_ZGtisUK5eyvng)
-[CMake:配置时运行自定义命令](https://mp.weixin.qq.com/s/PjqU8q9tkWYSgYu-Aglpfg)
-[CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
-[CMake: 配置时生成源码](https://mp.weixin.qq.com/s/Lv8FMN9WHdcWDNIUF5D4Wg)
-
-## Makefile
-[Makefile基础入门一：从编译小白到自动化构建达人](https://mp.weixin.qq.com/s/f4zbG0D5Sk6XtWLOjIg90A)
-[一些通用的Makefile文件模板](https://mp.weixin.qq.com/s/jKoGezTJKFbIw7Efiea2ww)
-[从版本1到版本5如何编写牛逼的Makefile](https://mp.weixin.qq.com/s/a9vg0r7wRA84947CRl5beg)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)

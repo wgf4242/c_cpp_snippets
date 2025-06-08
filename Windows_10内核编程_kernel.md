@@ -41,6 +41,7 @@
 ## Video
 [windows驱动开发进阶篇-内核安全视频课程](https://www.ruike1.com/thread-71763-1-1.html)
 [创客-Linux内核开发及优化](https://www.ruike1.com/thread-71787-1-1.html)
+[麦洛克菲内核开发](https://www.bilibili.com/video/BV1bwk8YGEJX)
 https://space.bilibili.com/94240122/video
 https://space.bilibili.com/95835298/video
 [二进制 - VT虚拟化&内核驱动](https://www.bilibili.com/video/BV1Yw4m117SN/)

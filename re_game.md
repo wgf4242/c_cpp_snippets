@@ -36,6 +36,8 @@ https://space.bilibili.com/95835298/video
 [极安御信网络安全系列课程-01.游戏逆向](https://www.bilibili.com/video/BV1pA411z7PF/)
 [第四课去除Cheat Engine和驱动的特征](https://www.bilibili.com/video/BV1jQA6e3EEx)
 
+[游戏逆向Hook终极秘籍：99%场景，一个模板搞定！](https://www.bilibili.com/video/BV1aYT7zuEVD/)
+
 ## 具体示例
 [《英雄无敌》4：修改pe导入表注入DLL扩展回城术功能](https://mp.weixin.qq.com/s/oCR8aGhtRSTcg9CbeJTqzw)
 [某二次元开放世界冒险游戏反作弊分析报告 ](https://www.52pojie.cn/thread-2006371-1-1.html)
