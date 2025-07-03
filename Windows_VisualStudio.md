@@ -20,6 +20,10 @@ vcpkg install lz4
 
 ## 环境配置
 
+### 工程: 新建文件夹
+
+3. 新建文件夹: 右击工程 - 添加 - 筛选器
+
 ### 环境变量/调试启动目录
 
 输出目录: 配置属性 - 常规 - 输出目录 配置 $(OutDir)变量
@@ -30,6 +34,10 @@ vcpkg install lz4
 链接器->所有选项
 ->入口点->输入 mainCRTStartup
 ->子系统->窗口 Windows
+
+### Include/Lib 目录
+
+项目 - 属性 - VC++ - 包含目录/库目录
 
 ### 使用Python.h编译程序/无法打开文件“python310_d.lib”
 [Windows下Visual Studio无法引入Python.h文件](https://blog.csdn.net/weixin_44575152/article/details/114186758)
