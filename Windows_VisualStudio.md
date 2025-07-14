@@ -150,6 +150,12 @@ cl testadd.c /Fe:TestAdd.exe /O1
 cl testadd.c /Fe:TestAdd.exe /O1 /MT /Zi- /GS- /GL /Ob0
 # 关闭随机地址
 cl testadd.c /Fe:TestAdd.exe /O1 /MT /Zi- /GS- /GL /Ob0 /DYNAMICBASE:NO
+
+# z7 将调试信息直接嵌入到生成的目标文件
+cl -z7 main.c
+
+# 禁用可执行文件的 地址空间布局随机化（ASLR）
+editbin /DYNAMICBASE:NO m4_demo.exe
 ```
 ## 常用设置
 

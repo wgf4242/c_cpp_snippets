@@ -1,11 +1,14 @@
 微信 搜索字符串
 要勾上 UTF-16
 
+
 # 微信
 [微信逆向之自己动手去除微信多开限制，小白也能看懂](https://www.52pojie.cn/thread-1951224-1-1.html)
   - [#多开 | [调试逆向] 微信逆向：防多开检测原理和绕过 ](https://www.52pojie.cn/thread-1944151-1-1.html) 
   - [#多开 | 微信逆向：防多开检测原理和绕过](https://www.kn0sky.com/) 
   - [#多开 | 微信多开PC版微信](https://blog.csdn.net/izwmain/article/details/136168934) 
+
+[PC微信机器人接口api之实战分析微信实时接收消息hook地址](https://www.cnblogs.com/hwmytr/p/14950901.html)
 
 [微信发送call寻找&调用](https://www.52pojie.cn/thread-1948442-1-1.html)
 微信逆向：定位功能调用（以文本消息发送为例）	https://www.52pojie.cn/thread-1940500-1-1.html
@@ -19,7 +22,6 @@
 * [Android | FastHook——如何使用FastHook免root hook微信](https://juejin.cn/post/6844903805046259726)
 * [PC微信获取登录二维码](https://juejin.cn/post/6844904162321235982)
 * [PC微信机器人接口api之od找登陆二维码hook地址](https://juejin.cn/post/6976906082291548191)
-* [企业微信PC版hook源码api接口](https://juejin.cn/post/7100373217742684173)
 * [微信界面逆向分析](https://mp.weixin.qq.com/s/K59W5QiLFJW48rQy2Rio3g)
 * [广东财经大学-信息安全-基于IDA Pro和Frida的微信消息撤回无效实验](https://www.bilibili.com/video/BV1di421U7qD/)
 * [hook 微信信息撤回功能](https://mp.weixin.qq.com/s/mPIjc7MnqrzFiKCWoJhsNA)
@@ -27,8 +29,6 @@
 https://github.com/liumesopw
 https://blog.csdn.net/u010256831?type=blog
 
-* [企业微信PC版hook源码api接口](https://juejin.cn/post/7100373217742684173)
-* [企业微信机器人sdk接口api之发送文章消息](https://juejin.cn/post/6988404078875246629)
 * [PC微信机器人接口api之实战分析微信发送xml名片消息call](https://juejin.cn/post/6980600827668856845)
 * [PC微信机器人接口api之实战分析微信好友群列表hook地址](https://juejin.cn/post/6979778198913417224)
 * [PC微信机器人接口api之实战分析微信实时接收消息hook地址](https://juejin.cn/post/6979135250660065294)
@@ -77,8 +77,6 @@ https://blog.csdn.net/u010256831?type=blog
 * [2021 Duilib最新入门教程（六）Duilib界面设计](https://www.cnblogs.com/wwgk/p/14320477.html)
 * [2021 Duilib最新入门教程（七）Duilib处理消息](https://www.cnblogs.com/wwgk/p/14320492.html)
 
-* [企业微信机器人](https://www.cnblogs.com/wwgk/p/14928492.html)
-* [企业微信所用技术和分析思路](https://www.cnblogs.com/wwgk/p/14808896.html)
 * [断点拦截局部数据](https://www.cnblogs.com/wwgk/p/14376362.html)
 * [模仿Cheat Engine内存搜索——（Sunday算法）](https://www.cnblogs.com/wwgk/p/15073780.html)
 

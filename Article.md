@@ -30,6 +30,8 @@
 [跟我学C++中级篇——std::not_fn](https://mp.weixin.qq.com/s/6lbr62Jpyd3w3rBdX0gBig)
 [跟我学C++中级篇—哑元](https://mp.weixin.qq.com/s/qu6ncHmFEO2TUgvI-yfJ0g)
 [跟我学C++中级篇—哑元的扩展应用](https://mp.weixin.qq.com/s/yILqYvErlG9AQepj6_QiwA)
+[跟我学C++中级篇—重载重写覆盖和隐藏](https://mp.weixin.qq.com/s/_i4HRo3taIUtXvEwhnPHwg)
+[跟我学C++中级篇—常见的数据类型](https://mp.weixin.qq.com/s/u9q4jKVg8GamropApeeQQA)
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
@@ -101,6 +103,7 @@
 
 [C++20 中​constinit](https://mp.weixin.qq.com/s/cAN4WUpI7x6xw0H2sTacug)
 [C++20实战之channel](https://mp.weixin.qq.com/s/spHtymMAEkTw3c5uN9cXKQ)
+[C++20中的counting_semaphore的应用](https://mp.weixin.qq.com/s/4UEXy_pSWZ0daMu8N2Ew6A)
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
 [c++23中的新功能之三zip的应用](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485106&idx=1&sn=0c585896a6195555dd1b6a173f9c6d2e)
@@ -127,6 +130,9 @@
 [c++26新功能—未求值字符串](https://mp.weixin.qq.com/s/Zf5FqwWk_kMg5DgeacTJqw)
 [c++26新功能—并行库支持的扩展](https://mp.weixin.qq.com/s/NNn6y2sbjjS7NLMuV9ZJ0w)
 [c++26新功能—平凡迁移](https://mp.weixin.qq.com/s/9S5Kr1MclDFwC_uzh45zyQ)
+[c++26新功能—几个细节的完善](https://mp.weixin.qq.com/s/HxAM32u8kSY_gGjzph5pFA)
+[c++26新功能—copyable_function](https://mp.weixin.qq.com/s/cji3vUU_jGFj38AIIzbaqg)
+[c++26新功能—文件流中的原生句柄](https://mp.weixin.qq.com/s/UV4U_rbVCk0xRS73vYFI_A)
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
 [const | const修饰指针的理解](https://mp.weixin.qq.com/s/JF_EwyA9hKakj1yDLJ3_ew)

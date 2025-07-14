@@ -101,6 +101,15 @@ int _tmain()
 [使用 Windows API 查找 PID 和 PPID](https://mp.weixin.qq.com/s/zaz-Qed9ScbZihagcgsudw)
 [C++内存读写 | 植物大战僵尸](https://www.bilibili.com/video/BV1jT421Q7si/)
 
+| DLL Name | Description |
+|-------------------|--------------------------------------------------|
+| Kernel32 | Core functionality – memory, processes, files and hardware |
+| Advapi32 | Service manager, registry |
+| User32 | User interface |
+| Ntdll | Low level API, not intended to be called directly |
+| WSock32/ws2_32 | Low-level networking |
+| Wininet | High-level networking (HTTP, FTP, etc) |
+
 ## 安全编程/免杀
 
 - CTF\binary\Reverse\index.md
