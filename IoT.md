@@ -4,6 +4,7 @@ https://microsoft.github.io/devicescript/
 [平台 | 协议介绍 | 物联网快速学习入门指南](https://mp.weixin.qq.com/s/ySIqybBmV1yZE1OwOBzImg)
 [#工具 | 仿真 | 玩 ESP32 和 Arduino 的同学一定不能错过这个在线仿真网站](https://mp.weixin.qq.com/s/wiMJYY74SVgCFcar6gLRhA)
 [#工具 | 分享一个非常有用的虚拟串口工具](https://mp.weixin.qq.com/s/TURLmhZXCQUi5PL0HM4BcA)
+[#环境 | 使用VSCode开发STM32最简单方法，插件+STM32CubeCLT](https://mp.weixin.qq.com/s/MOj8EJmQBxW7zlrYJwkRVA)
 [没有原理图，如何找出每个模块的引脚？](https://mp.weixin.qq.com/s/01TrcEgtrWD751_1C83Xkw)
 [【ESP32 & Arduino】ESP32入门之环境安装](https://blog.jamiexu.cn/2022/11/23/%E3%80%90ESP32%20&%20Arduino%E3%80%91ESP32%E5%85%A5%E9%97%A8%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E4%B9%8B%E7%82%B9%E4%BA%AE%E7%AC%AC%E4%B8%80%E9%A2%97LED/)
 [【STM32&I2C(IIC)&Proteus】基于STM32的Proteus下I2C仿真](https://blog.jamiexu.cn/2023/04/20/%E3%80%90STM32&I2C(IIC)&ROM&RAM&Proteus%E3%80%91IIC%E5%8D%8F%E8%AE%AE%E5%92%8C%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%9F%BA%E4%BA%8ESTM32%E7%9A%84Proteus%E4%B8%8BI2C%E4%BB%BF%E7%9C%9F/)
@@ -37,6 +38,7 @@ https://microsoft.github.io/devicescript/
 [ESP32-P4 开发板 MicroPython 固件编译方法](https://mp.weixin.qq.com/s/UKQj2_t_E20BII6jgUEFyg)
 [ESP32-P4基于MicroPython驱动LCD屏幕与触摸](https://mp.weixin.qq.com/s/ZD1DwhXjSy-eSRp0hKy9ig)
 [ESP32-P4基于MicroPython显示图片](https://mp.weixin.qq.com/s/iN1iLF4qjq1BdPp_w-o4yQ)
+[天气行动ESP32：http_client的使用](https://mp.weixin.qq.com/s/pjWehdoDkQhllhpgW6fqPA)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 

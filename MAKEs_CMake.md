@@ -96,6 +96,12 @@ Makefile.patch 使用 patch 命令生成 Makefile
 [一些通用的Makefile文件模板](https://mp.weixin.qq.com/s/jKoGezTJKFbIw7Efiea2ww)
 [从版本1到版本5如何编写牛逼的Makefile](https://mp.weixin.qq.com/s/a9vg0r7wRA84947CRl5beg)
 
+## NMake
+
+```sh
+# Detour 编译
+nmake /f Makefile
+```
 
 # FAQ
 
