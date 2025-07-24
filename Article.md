@@ -32,6 +32,7 @@
 [跟我学C++中级篇—哑元的扩展应用](https://mp.weixin.qq.com/s/yILqYvErlG9AQepj6_QiwA)
 [跟我学C++中级篇—重载重写覆盖和隐藏](https://mp.weixin.qq.com/s/_i4HRo3taIUtXvEwhnPHwg)
 [跟我学C++中级篇—常见的数据类型](https://mp.weixin.qq.com/s/u9q4jKVg8GamropApeeQQA)
+[跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
