@@ -19,6 +19,7 @@ gcc -c ./main.s -o main.o
 [C++编译优化之—so 动态库依赖](https://mp.weixin.qq.com/s/m7oVgk_lbtAAgwmH9zfvdA)
 
 ```sh
+# 在gcc编译时指定输出字符集，例如使用-fexec-charset=GBK选项。
 gcc -m16 -march=i386 -o example example.c # 16位编译
 gcc -m32 main.c       # 32位编译 "D:\mingw32\bin\gcc.exe"
 gcc -fpie -pie main.c # 开启pie
