@@ -44,7 +44,7 @@
 [C++中定义宏的时候行末尾的反斜杠是什么意思？](https://mp.weixin.qq.com/s/-eK2QXFeC-InfQrx4gR8zg)
 [C++类型转换](https://mp.weixin.qq.com/s/QXpsX1XmWy1Yglt7yE56yA)
 [轻描淡写C++运算符重载](https://mp.weixin.qq.com/s/_CMuDS6NMC2QPrpBdmi40Q)
-[C++复制构造函数与析构函数](https://mp.weixin.qq.com/s/-YmmosFwsoYZWL9v-mX7Ag
+[C++复制构造函数与析构函数](https://mp.weixin.qq.com/s/-YmmosFwsoYZWL9v-mX7Ag)
 [C++ 的 `make_from_tuple` 和 apply](https://mp.weixin.qq.com/s/fBh9nR89zWEoQiOBVahnBQ)
 [C++ 智能指针](https://mp.weixin.qq.com/s/JHyvDPngjjL2QRZ_nkRirA)
 [C++ 的双冒号是做什么](https://mp.weixin.qq.com/s/lHnWHeyGz6N9cskTr6pZ3Q)
@@ -175,6 +175,7 @@
 [Linux C++性能优化：从编译器到代码，探究高性能C++程序的实现之道](https://mp.weixin.qq.com/s/0paAxMx-DgRl1rHpaRNRWw)
 [内存分析工具的使用——AddressSanitizer](https://mp.weixin.qq.com/s/GkPqAqMjq5EZkuv9f0Nzgw)
 
+[“影子插桩”：利用 LLVM 在二进制层面对 dlsym 调用做无痕监控（C/C++实现）](https://mp.weixin.qq.com/s/Xhff-c9ik5SSd0VS7WO02w)
 ## Video
 
 [cherno | 【C++教程】国外大佬C++技术教程](https://www.bilibili.com/video/BV1oD4y1h7S3/)
@@ -231,6 +232,9 @@
 
 ## 通信
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
+
+## CUDA
+[并行编程实战——CUDA编程基础入门](https://mp.weixin.qq.com/s/TGq1U3d4Pw0oohc7XfRAnw)
 
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
