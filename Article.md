@@ -135,6 +135,10 @@
 [c++26新功能—几个细节的完善](https://mp.weixin.qq.com/s/HxAM32u8kSY_gGjzph5pFA)
 [c++26新功能—copyable_function](https://mp.weixin.qq.com/s/cji3vUU_jGFj38AIIzbaqg)
 [c++26新功能—文件流中的原生句柄](https://mp.weixin.qq.com/s/UV4U_rbVCk0xRS73vYFI_A)
+[c++26新功能—SIMD](https://mp.weixin.qq.com/s/9gPcQFvmrWomqUVKpZjXbg)
+[c++26新功能—多维数组视图](https://mp.weixin.qq.com/s/VZgNDToeBkhu99YfMs4EHA)
+[c++26新功能—debugging库](https://mp.weixin.qq.com/s/KNMW92HfP8R5b-vk6fmrpw)
+
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
 [const | const修饰指针的理解](https://mp.weixin.qq.com/s/JF_EwyA9hKakj1yDLJ3_ew)
@@ -235,7 +239,8 @@
 
 ## CUDA
 [并行编程实战——CUDA编程基础入门](https://mp.weixin.qq.com/s/TGq1U3d4Pw0oohc7XfRAnw)
-
+[并行编程实战——CUDA入门编程的函数](https://mp.weixin.qq.com/s/FmOlPnKRKUQi8K3K6PMXYg)
+[并行编程实战——CUDA编程的整体流程](https://mp.weixin.qq.com/s/yfLXbXh9NapYtl6eywfPCA)
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
 [C++ 好用的 Json 解析库--JsonCpp](https://mp.weixin.qq.com/s/ghBTjt50CugNefXm5cd8qQ)

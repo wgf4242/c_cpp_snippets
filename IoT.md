@@ -39,6 +39,8 @@ https://microsoft.github.io/devicescript/
 [ESP32-P4基于MicroPython驱动LCD屏幕与触摸](https://mp.weixin.qq.com/s/ZD1DwhXjSy-eSRp0hKy9ig)
 [ESP32-P4基于MicroPython显示图片](https://mp.weixin.qq.com/s/iN1iLF4qjq1BdPp_w-o4yQ)
 [天气行动ESP32：http_client的使用](https://mp.weixin.qq.com/s/pjWehdoDkQhllhpgW6fqPA)
+[MicroPython 的远程控制工具 mpremote](https://mp.weixin.qq.com/s/RMKINRgGRw-LPTPTpSnUPA)
+[ESP32-P4 玩转 ESP-DL：实现YOLO v11目标检测](https://mp.weixin.qq.com/s/k_djOZQOcJ3r13Tn-SHWMA)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 
@@ -62,5 +64,7 @@ https://microsoft.github.io/devicescript/
 [#平台 | ThingsBoard，专门解决物联网设备管理和数据可视化的痛点。](https://mp.weixin.qq.com/s/-zoL3gw8Z0UpvP2nCcn9zg)
 [#平台 | 私有化部署，企业级开源 3D 数字孪生低代码平台，IoT 物联网可视化Web 大屏交付必备](https://mp.weixin.qq.com/s/DdIRncxYrkfkqQXEb4lAmQ)
 [#平台 | 10万开发者推荐！基于 WebGL的开源 3D 数字孪生引擎，IoT 物联网可视化大屏神器](https://mp.weixin.qq.com/s/bS0bxjkXGrN5d9UeATLgMQ)
+[30元，嵌入式大神手搓智能指纹门锁！乐鑫ESP32主控，蓝牙配网，人体检测，支持微信小程序](https://mp.weixin.qq.com/s/3T_CA-IbSTqPHWgsenbxGQ)
+
 # Tutorials
 [IoT- From Basic to Advanced](https://www.0daydown.com/04/2381098.html)
