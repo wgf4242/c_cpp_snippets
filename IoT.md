@@ -66,5 +66,21 @@ https://microsoft.github.io/devicescript/
 [#平台 | 10万开发者推荐！基于 WebGL的开源 3D 数字孪生引擎，IoT 物联网可视化大屏神器](https://mp.weixin.qq.com/s/bS0bxjkXGrN5d9UeATLgMQ)
 [30元，嵌入式大神手搓智能指纹门锁！乐鑫ESP32主控，蓝牙配网，人体检测，支持微信小程序](https://mp.weixin.qq.com/s/3T_CA-IbSTqPHWgsenbxGQ)
 
+[Sim卡模块链接](https://detail.tmall.com/item.htm) [SIM800L](https://www.bilibili.com/video/BV1YYkEYHEwp/) [SIM800C](https://www.bilibili.com/video/BV1QUkLYCEvF/)
+
+# 开发板
+
+## 合宙Air780
+[度云doiot](https://www.yuque.com/doiot/data)
+[度云doiot 合宙780系列](https://www.yuque.com/doiot/data/xne3lhgsmscm5viu)
+[AIR780 MINI LTE 4G全网通模块](http://wiki.waaax.cn/MODULE/GSM/AIR780EX/AIR780EX.html)
+[实例 | 硬件短信转发最新版——天喜客户部署步骤](https://www.yuque.com/zhangyameng-lxats/lva528/xerfzwfdgbuhsm0w)
+
+## Sim800
+[SIM800L模块 送天线  操作说明视频](https://www.bilibili.com/opus/1011492487907246081)
+[SIM800C GSM GPRS模块  操作说明视频](https://www.bilibili.com/opus/1011492539421687831)
+[SIM800A模块 送天线   使用说明视频](https://www.bilibili.com/opus/1012868290462089219)
+[SIM800L模块 GSM GPRS 4频  使用说明](https://www.bilibili.com/opus/1012868964759371781)
+[SIM800 参考例程](https://pan.baidu.com/s/1R8ttv3zq6Mcp9enS-aBBzg#q0jq) [操作视频](https://www.bilibili.com/video/BV1om4y1A7id/) [SIM800L资料下载链接：](https://pan.baidu.com/s/1QskIbtVqQdTHnOzHuAznag#fz5h)
 # Tutorials
 [IoT- From Basic to Advanced](https://www.0daydown.com/04/2381098.html)

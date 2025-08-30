@@ -88,6 +88,8 @@ https://space.bilibili.com/95835298/video
 [【飞郁2022新课程】20- 局部变量和全局变量](https://www.bilibili.com/video/BV1434y1X7PC/)
 [【飞郁2022新课程】19- CE的使用技巧](https://www.bilibili.com/video/BV1jF41187bT/)
 [【飞郁2022新课程】18- CE基础和扫描](https://www.bilibili.com/video/BV1s34y1R72b/)
+[#CE | 真的最终弹 ce修改器 实在搜不到数值怎么办](https://www.bilibili.com/video/BV1VNRtY1Eqi)
+
 
 [天堂w逆向任务全部数据](https://www.bilibili.com/video/BV1HM411M7eY/)
 [FF14xdbg逆向周围属性](https://www.bilibili.com/video/BV1TN411T7bz/)

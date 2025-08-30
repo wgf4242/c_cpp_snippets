@@ -138,6 +138,10 @@
 [c++26新功能—SIMD](https://mp.weixin.qq.com/s/9gPcQFvmrWomqUVKpZjXbg)
 [c++26新功能—多维数组视图](https://mp.weixin.qq.com/s/VZgNDToeBkhu99YfMs4EHA)
 [c++26新功能—debugging库](https://mp.weixin.qq.com/s/KNMW92HfP8R5b-vk6fmrpw)
+[c++26新功能—线性代数库](https://mp.weixin.qq.com/s/xYJjjF-56VJaW2NSNT1Nqg)
+[c++26新功能—Ranges的扩展](https://mp.weixin.qq.com/s/g3wtBksRtcs3OajIneK4sg)
+[c++26新功能—格式化指针](https://mp.weixin.qq.com/s/KIfxXU-yBMZifvNRBz0qmw)
+[c++26新功能—ADL的证明](https://mp.weixin.qq.com/s/koycDi9NJy9TUVPIjXrURg)
 
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
