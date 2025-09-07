@@ -34,6 +34,7 @@
 [跟我学C++中级篇—常见的数据类型](https://mp.weixin.qq.com/s/u9q4jKVg8GamropApeeQQA)
 [跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
 [跟我学C++中级篇——进程内存空间的管理](https://mp.weixin.qq.com/s/L78bMtj2pa2T-DiEVwZgCg)
+[跟我学C++中级篇——进制转换](https://mp.weixin.qq.com/s/9wOw2cRJS-IeyxJgvXQ7Lw)
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
@@ -95,6 +96,7 @@
 [跟我学C++高级篇——回调函数及应用](https://mp.weixin.qq.com/s/uyz_RS8Lug47G8puNp1vMQ)
 [C++反射-简介](https://mp.weixin.qq.com/s/kmBS8N-xf_dyWDKc7iuEWw)
 [跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
+[跟我学C++中级篇—constexpr在字符串上的应用](https://mp.weixin.qq.com/s/bl0y39jm7tRjTbdBIGdEbA)
 
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
@@ -142,6 +144,7 @@
 [c++26新功能—Ranges的扩展](https://mp.weixin.qq.com/s/g3wtBksRtcs3OajIneK4sg)
 [c++26新功能—格式化指针](https://mp.weixin.qq.com/s/KIfxXU-yBMZifvNRBz0qmw)
 [c++26新功能—ADL的证明](https://mp.weixin.qq.com/s/koycDi9NJy9TUVPIjXrURg)
+[c++26新功能—constexpr placement new](https://mp.weixin.qq.com/s/mmTqFspjwxpas6-Xh9Sm3w)
 
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
@@ -244,6 +247,7 @@
 ## CUDA
 [并行编程实战——CUDA编程基础入门](https://mp.weixin.qq.com/s/TGq1U3d4Pw0oohc7XfRAnw)
 [并行编程实战——CUDA入门编程的函数](https://mp.weixin.qq.com/s/FmOlPnKRKUQi8K3K6PMXYg)
+[并行编程实战——CUDA入门编程的函数](https://mp.weixin.qq.com/s/SZY-RqnB8NLACyvgzQY9nA)
 [并行编程实战——CUDA编程的整体流程](https://mp.weixin.qq.com/s/yfLXbXh9NapYtl6eywfPCA)
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
