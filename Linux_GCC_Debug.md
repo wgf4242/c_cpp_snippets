@@ -17,6 +17,7 @@ gcc -c ./main.s -o main.o
 ## 编译/Link/gcc/
 
 [C++编译优化之—so 动态库依赖](https://mp.weixin.qq.com/s/m7oVgk_lbtAAgwmH9zfvdA)
+[Debug | 新手linux c++调试最佳利器--visual studio](https://zhuanlan.zhihu.com/p/27370373697)
 
 ```sh
 # 在gcc编译时指定输出字符集，例如使用-fexec-charset=GBK选项。

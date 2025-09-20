@@ -19,6 +19,7 @@
 [时间 | 跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
 [时间 | 再也不被时间束缚：C++ std::chrono时间库全面解析](https://mp.weixin.qq.com/s/cMyZx7t77OMthMVuSpAurg)
 [掌握C++定时器：构建自己的定时器的分步指南](https://mp.weixin.qq.com/s/jx3J1I37m1oB7zzDOFR9NA)
+[C++编程实践——数据校验](https://mp.weixin.qq.com/s/eue7YtlTqY21G3mndi4O_A)
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
 [跟我学c++中级篇——模板的模板参数匹配](https://mp.weixin.qq.com/s/zFGoQTECVZc0R01EcevDBg)
@@ -145,6 +146,7 @@
 [c++26新功能—格式化指针](https://mp.weixin.qq.com/s/KIfxXU-yBMZifvNRBz0qmw)
 [c++26新功能—ADL的证明](https://mp.weixin.qq.com/s/koycDi9NJy9TUVPIjXrURg)
 [c++26新功能—constexpr placement new](https://mp.weixin.qq.com/s/mmTqFspjwxpas6-Xh9Sm3w)
+[c++26新功能—模板参数中的概念与变量模板](https://mp.weixin.qq.com/s/gG3cQ8QB5AYVhjbJUNyPuQ)
 
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
@@ -249,6 +251,7 @@
 [并行编程实战——CUDA入门编程的函数](https://mp.weixin.qq.com/s/FmOlPnKRKUQi8K3K6PMXYg)
 [并行编程实战——CUDA入门编程的函数](https://mp.weixin.qq.com/s/SZY-RqnB8NLACyvgzQY9nA)
 [并行编程实战——CUDA编程的整体流程](https://mp.weixin.qq.com/s/yfLXbXh9NapYtl6eywfPCA)
+[并行编程实战——CUDA编程的内存管理](https://mp.weixin.qq.com/s/htz4q-Gn5OVZrvcGydQQqQ)
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
 [C++ 好用的 Json 解析库--JsonCpp](https://mp.weixin.qq.com/s/ghBTjt50CugNefXm5cd8qQ)

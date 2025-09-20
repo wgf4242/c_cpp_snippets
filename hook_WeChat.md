@@ -29,6 +29,8 @@
 https://github.com/liumesopw
 https://blog.csdn.net/u010256831?type=blog
 
+* [PC逆向 -- 微信逆向之多开+防撤回分析，小白也能看懂](https://mp.weixin.qq.com/s/QxsCltASy5j8iHVP_BTBPg)
+
 * [PC微信机器人接口api之实战分析微信发送xml名片消息call](https://juejin.cn/post/6980600827668856845)
 * [PC微信机器人接口api之实战分析微信好友群列表hook地址](https://juejin.cn/post/6979778198913417224)
 * [PC微信机器人接口api之实战分析微信实时接收消息hook地址](https://juejin.cn/post/6979135250660065294)
