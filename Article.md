@@ -147,6 +147,8 @@
 [c++26新功能—ADL的证明](https://mp.weixin.qq.com/s/koycDi9NJy9TUVPIjXrURg)
 [c++26新功能—constexpr placement new](https://mp.weixin.qq.com/s/mmTqFspjwxpas6-Xh9Sm3w)
 [c++26新功能—模板参数中的概念与变量模板](https://mp.weixin.qq.com/s/gG3cQ8QB5AYVhjbJUNyPuQ)
+[c++26新功能—带花括号初始化器的静态存储](https://mp.weixin.qq.com/s/3co-zBY6mToUsW9vlYxI4A)
+
 
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
