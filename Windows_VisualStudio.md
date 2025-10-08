@@ -213,6 +213,12 @@ L"example.dll"
 
 visual studio 关闭一下资源窗口， 按一下保存， 就能更新了。
 
+## 【VS】常见错误：C4996 ‘fopen‘: This function or variable may be unsafe. Consider using fopen_s instead解决办法
+
+https://blog.csdn.net/qq_40520596/article/details/107081505
+
+
+
 # Article
 
 [基于已有项目配置 Visual Studio 新项目的 C++库](https://mp.weixin.qq.com/s/EBy-HpI6S66cSun5pfiI7g)

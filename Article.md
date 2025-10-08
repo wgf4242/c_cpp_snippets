@@ -19,7 +19,10 @@
 [时间 | 跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
 [时间 | 再也不被时间束缚：C++ std::chrono时间库全面解析](https://mp.weixin.qq.com/s/cMyZx7t77OMthMVuSpAurg)
 [掌握C++定时器：构建自己的定时器的分步指南](https://mp.weixin.qq.com/s/jx3J1I37m1oB7zzDOFR9NA)
+
 [C++编程实践——数据校验](https://mp.weixin.qq.com/s/eue7YtlTqY21G3mndi4O_A)
+[C++编程实践——odb库的应用](https://mp.weixin.qq.com/s/Qu1D8BmaEGOisidEMz07Dg)
+
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
 [跟我学c++中级篇——模板的模板参数匹配](https://mp.weixin.qq.com/s/zFGoQTECVZc0R01EcevDBg)
@@ -148,7 +151,7 @@
 [c++26新功能—constexpr placement new](https://mp.weixin.qq.com/s/mmTqFspjwxpas6-Xh9Sm3w)
 [c++26新功能—模板参数中的概念与变量模板](https://mp.weixin.qq.com/s/gG3cQ8QB5AYVhjbJUNyPuQ)
 [c++26新功能—带花括号初始化器的静态存储](https://mp.weixin.qq.com/s/3co-zBY6mToUsW9vlYxI4A)
-
+[c++26新功能—constexpr在稳定排序中的应用](https://mp.weixin.qq.com/s/xmHnri9H-RirWb7C_pCA5w)
 
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
@@ -254,6 +257,10 @@
 [并行编程实战——CUDA入门编程的函数](https://mp.weixin.qq.com/s/SZY-RqnB8NLACyvgzQY9nA)
 [并行编程实战——CUDA编程的整体流程](https://mp.weixin.qq.com/s/yfLXbXh9NapYtl6eywfPCA)
 [并行编程实战——CUDA编程的内存管理](https://mp.weixin.qq.com/s/htz4q-Gn5OVZrvcGydQQqQ)
+[并行编程实战——CUDA编程的多线程编程](https://mp.weixin.qq.com/s/aEfYp4f_n8jpSd66iED1pw)
+[并行编程实战——CUDA编程的驱动接口与运行时接口的分析](https://mp.weixin.qq.com/s/Q7Mty1NzYG7cg0_FmmvQ3w)
+[并行编程实战——CUDA编程的Stream](https://mp.weixin.qq.com/s/vDIzJh0mLEb_cA659dguwg)
+
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
 [C++ 好用的 Json 解析库--JsonCpp](https://mp.weixin.qq.com/s/ghBTjt50CugNefXm5cd8qQ)
