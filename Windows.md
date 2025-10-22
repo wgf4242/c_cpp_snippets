@@ -166,6 +166,7 @@ https://github.com/Joe1sn/S-inject
 [Hollow | Windows进程空洞（Hollow Process ）注入](https://mp.weixin.qq.com/s/CPveNNu3qzhr4FGacxH_cQ)
 [Hollow | Process Hollowing on Windows 11 24H2](https://hshrzd.wordpress.com/2025/01/27/process-hollowing-on-windows-11-24h2/)
 [【原创】优雅地在 Hook 时替换 std::string 的内容](https://www.52pojie.cn/thread-1905246-1-1.html)
+[高级进程注入之利用线程名和APC（下）](https://mp.weixin.qq.com/s/jfTTcUfyTladoRb1ZmvK2A)
 
 ## 寻址
 

@@ -39,6 +39,7 @@
 [跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
 [跟我学C++中级篇——进程内存空间的管理](https://mp.weixin.qq.com/s/L78bMtj2pa2T-DiEVwZgCg)
 [跟我学C++中级篇——进制转换](https://mp.weixin.qq.com/s/9wOw2cRJS-IeyxJgvXQ7Lw)
+[跟我学C++高级篇—DWARF格式与调试](https://mp.weixin.qq.com/s/w_AIMPkerLbePUa02ufEsQ)
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
@@ -152,6 +153,7 @@
 [c++26新功能—模板参数中的概念与变量模板](https://mp.weixin.qq.com/s/gG3cQ8QB5AYVhjbJUNyPuQ)
 [c++26新功能—带花括号初始化器的静态存储](https://mp.weixin.qq.com/s/3co-zBY6mToUsW9vlYxI4A)
 [c++26新功能—constexpr在稳定排序中的应用](https://mp.weixin.qq.com/s/xmHnri9H-RirWb7C_pCA5w)
+[c++26新功能—indirect<T>和polymorphic<T>](https://mp.weixin.qq.com/s/9nX_FWNW9Q_Ph26dN1PrWA)
 
 [现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
@@ -260,6 +262,8 @@
 [并行编程实战——CUDA编程的多线程编程](https://mp.weixin.qq.com/s/aEfYp4f_n8jpSd66iED1pw)
 [并行编程实战——CUDA编程的驱动接口与运行时接口的分析](https://mp.weixin.qq.com/s/Q7Mty1NzYG7cg0_FmmvQ3w)
 [并行编程实战——CUDA编程的Stream](https://mp.weixin.qq.com/s/vDIzJh0mLEb_cA659dguwg)
+[并行编程实战——CUDA编程的延迟加载](https://mp.weixin.qq.com/s/ARHBWX5Yq2ga8lxOO_STKQ)
+
 
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
@@ -277,6 +281,12 @@
 [适用于嵌入式设备的 Json 库](https://mp.weixin.qq.com/s/46P7rNqRMXwqZZ1DwXRhfw)
 [ZXing QRCode二维码](https://mp.weixin.qq.com/s/o0BiAtyMPERgCqb4r05ADw)
 [Folly | C++ 高端基础库推荐](https://mp.weixin.qq.com/s/n_pYRUFjkZ0bFz4Toli4og)
+[#OpenCV | 边缘检测](https://mp.weixin.qq.com/s/xMeDVcCpNhAq-lHjNCsHtQ)
+[#OpenCV | 轮廓检测](https://mp.weixin.qq.com/s/eU1HsjB7RqwWrCxh6kjzzw)
+[#OpenCV | 轮廓分析](https://mp.weixin.qq.com/s/tLDplrtk3m1G-ZMHqC28cQ)
+[#OpenCV | 图像通道操作](https://mp.weixin.qq.com/s/BEYsemduqczdC2QDkxbwUg)
+[#OpenCV | 直方图](https://mp.weixin.qq.com/s/4N88QJRHggHXCJRaS5kIyw)
+[#OpenCV | 连通区域](https://mp.weixin.qq.com/s/agMLTXDiRaWMg9XGnewxqA)
 
 
 # VSCode

@@ -36,6 +36,14 @@
 [R0下一种简单的Irp包数据捕获方法](https://mp.weixin.qq.com/s/JbPW0FzRJFCFb5OVdS-LkA)
 [windows内核安全攻防技术研究](https://mp.weixin.qq.com/s/HiMwjQdCtV7VflleY_jXXQ)
 
+## Documentation
+
+[windows-syscalls](https://github.com/j00ru/windows-syscalls)
+
+[Windows X86-64 System Call Table (XP/2003/Vista/7/8/10/11 and Server)](https://j00ru.vexillium.org/syscalls/nt/64/)
+
+[awesome-game-security](https://www.ctfiot.com/49085.html)
+
 ## package
 [TitanHide 泰坦驱动  github开源](https://github.com/mrexodia/TitanHide)
 
