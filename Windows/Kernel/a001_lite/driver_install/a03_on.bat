@@ -1,0 +1,2 @@
+sc start nirsDriver
+pause

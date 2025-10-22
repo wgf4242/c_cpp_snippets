@@ -12,3 +12,4 @@ main/cpp_project_output/
 # Windows Visual Studio
 **/*.aps
 .visualgdb/
+.obsidian
