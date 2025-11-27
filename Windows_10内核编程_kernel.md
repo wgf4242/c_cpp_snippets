@@ -21,6 +21,8 @@
 [【Windows 内核基础篇】-内核入门-段基础](https://mp.weixin.qq.com/s/kijs0KxjPWulqI2QVaE_Yw)
 [火哥 Windows内核逆向 | 驱动开发 第6期（更新中）](https://www.bilibili.com/video/BV1GC41157K2)
 [火哥 Windows内核逆向 | 驱动开发 第6期（更新中）| UP主 0x00实验室](https://www.bilibili.com/video/BV1Dy411e72m/)
+[火哥 Windows内核-第6期课程（完整版）](https://www.bilibili.com/video/BV1wR1sBQE7V)
+
 [Driver Download](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/download-the-wdk#download-icon-step-3-install-wdk)
 [Windows内核安全-字符串操作【逆向安全/漏洞安全/2023最新课程/CTF】- 极安御信系列课程](https://www.bilibili.com/video/BV19u4y1P7Cx/)
 [Windows内核安全-R3与R0通信【逆向安全/漏洞安全/CTF】](https://www.bilibili.com/video/BV16Q4y1n7wu/)

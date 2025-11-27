@@ -22,6 +22,11 @@
 
 [C++编程实践——数据校验](https://mp.weixin.qq.com/s/eue7YtlTqY21G3mndi4O_A)
 [C++编程实践——odb库的应用](https://mp.weixin.qq.com/s/Qu1D8BmaEGOisidEMz07Dg)
+[C++编程实践——Linux下的CPU控制](https://mp.weixin.qq.com/s/BW4emlNC0OVGBAmBgsd5cA)
+[C++编程实践——eventFD](https://mp.weixin.qq.com/s/WG3SGWe3W1qWJs1VltbJWg)
+[C++编程实践——分布式文件系统](https://mp.weixin.qq.com/s/85G8z8Li4nn1uharfgl_0g)
+[C++编程实践——magic_enum的应用](https://mp.weixin.qq.com/s/bIB3tBLtwZBkJx4INzLGMg)
+[C++编程实践——标准库overloaded实现分析](https://mp.weixin.qq.com/s/u2afmiUZ06Y7PeQ1ts-3GQ)
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -39,7 +44,22 @@
 [跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
 [跟我学C++中级篇——进程内存空间的管理](https://mp.weixin.qq.com/s/L78bMtj2pa2T-DiEVwZgCg)
 [跟我学C++中级篇——进制转换](https://mp.weixin.qq.com/s/9wOw2cRJS-IeyxJgvXQ7Lw)
-[跟我学C++高级篇—DWARF格式与调试](https://mp.weixin.qq.com/s/w_AIMPkerLbePUa02ufEsQ)
+[跟我学C++中级篇——C++中的remove函数](https://mp.weixin.qq.com/s/rTsEEN_Prm0VgrQQwzYHjg)
+[跟我学C++中级篇——C++中的匹配查找](https://mp.weixin.qq.com/s/3bnopHGeBuhc5QG3gjehGQ)
+[跟我学C++中级篇——std::unique_lock的分析应用](https://mp.weixin.qq.com/s/tf4qTuyB8BaA6CrrE3Re1Q)
+[跟我学C++中级篇——编译期和运行时的性能处理分析](https://mp.weixin.qq.com/s/Enw1EX53IMPEYewSwkYgBQ)
+[跟我学C++中级篇——重载问题分析之函数重载的匹配说明](https://mp.weixin.qq.com/s/m2NRNon-dqUUpvY6Hp-Nmw)
+[跟我学c++中级篇——再论全局和静态智能指针](https://mp.weixin.qq.com/s/5rrsMayIYzldV9qiVl-N4A)
+[跟我学C++中级篇——零长度数组](https://mp.weixin.qq.com/s/FkYfDJXPgpB0urYIdEh8mA)
+[跟我学C++中级篇——const和constexpr的使用](https://mp.weixin.qq.com/s/0piEOFV6iWmCrQ-qZ0vk0Q)
+[跟我学C++中级篇——if constexpr的应用](https://mp.weixin.qq.com/s/nPwb34Ofzstsuq_fyVSg0w)
+[跟我学c++中级篇——多线程中的文件处理](https://mp.weixin.qq.com/s/hhLJ0kqGul8SxUI779n-Iw)
+[跟我学C++中级篇——const_cast分析](https://mp.weixin.qq.com/s/McjEKtENBYpeS0lehT18pw)
+[跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
+[跟我学C++中级篇—constexpr在字符串上的应用](https://mp.weixin.qq.com/s/bl0y39jm7tRjTbdBIGdEbA)
+[跟我学C++中级篇——重载问题分析之运算符重载的问题分析](https://mp.weixin.qq.com/s/31SY8N5GmxngRhh8csI-lg)
+[跟我学C++中级篇——内存访问违例](https://mp.weixin.qq.com/s/3bJ_zjej7LzOx3FL_zSLOA)
+
 [网络 | c++应用网络编程之五Windows常用的网络IO模型](https://mp.weixin.qq.com/s/qcmY885JUOYHYfSq5S7i5g)
 [C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
@@ -49,6 +69,7 @@
 [C++函数式编程Ⅰ](https://mp.weixin.qq.com/s/AUGVjkbZn32zPM3utBeV0w)
 [C++中定义宏的时候行末尾的反斜杠是什么意思？](https://mp.weixin.qq.com/s/-eK2QXFeC-InfQrx4gR8zg)
 [C++类型转换](https://mp.weixin.qq.com/s/QXpsX1XmWy1Yglt7yE56yA)
+
 [轻描淡写C++运算符重载](https://mp.weixin.qq.com/s/_CMuDS6NMC2QPrpBdmi40Q)
 [C++复制构造函数与析构函数](https://mp.weixin.qq.com/s/-YmmosFwsoYZWL9v-mX7Ag)
 [C++ 的 `make_from_tuple` 和 apply](https://mp.weixin.qq.com/s/fBh9nR89zWEoQiOBVahnBQ)
@@ -78,30 +99,27 @@
 [跟我学C++中级篇——右值引用和万能引用](https://mp.weixin.qq.com/s/CrbcK_PstOPyzJryT_P2BQ)
 [C++中的局部static](https://mp.weixin.qq.com/s/VDEL-uOlQf39JKNhgJsVJg)
 [C++函数返回指针和引用的坑](https://mp.weixin.qq.com/s/aGIdPrE2vOZC2BkfJoOPJw)
-[跟我学c++中级篇——再论全局和静态智能指针](https://mp.weixin.qq.com/s/5rrsMayIYzldV9qiVl-N4A)
-[跟我学C++中级篇——零长度数组](https://mp.weixin.qq.com/s/FkYfDJXPgpB0urYIdEh8mA)
-[跟我学C++中级篇——const和constexpr的使用](https://mp.weixin.qq.com/s/0piEOFV6iWmCrQ-qZ0vk0Q)
-[跟我学C++中级篇——if constexpr的应用](https://mp.weixin.qq.com/s/nPwb34Ofzstsuq_fyVSg0w)
-[跟我学c++中级篇——多线程中的文件处理](https://mp.weixin.qq.com/s/hhLJ0kqGul8SxUI779n-Iw)
 [C++ 中的返回值优化](https://mp.weixin.qq.com/s/UI56112_jitpN3g-ULJ-1w)
 [跟我学c++中级篇——模板的调试](https://mp.weixin.qq.com/s/It2mhMEieK7EvMubSRNHgQ)
 [auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
 [C++那些事之万物皆可auto](https://mp.weixin.qq.com/s/ARH7Iq7kC7flhW850ex2ZA)
 [C++那些事之string那些事](https://mp.weixin.qq.com/s/WIz4tSazseQjafuYhf-pEQ)
 [现代 c++ 读写 buffer](https://mp.weixin.qq.com/s/YCTSntOm8HsK9lDECBSKcw)
+[一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
+[C++中设计好用的API](https://mp.weixin.qq.com/s/KmLiKA55Bc9nIbkS47J7mA)
+[C++的函数如何返回多个值？](https://mp.weixin.qq.com/s/-PJ2b_AtE1wuQDFfClewkA)
+
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
 [跟我学c++高级篇——动态反射之一递归遍历](https://mp.weixin.qq.com/s/onRdi7HylMENIy3DphSw6w)
 [跟我学c++高级篇——静态反射实现之二函数接口实现](https://mp.weixin.qq.com/s/aihQKPa5LtF-YtVuXrAaDw)
 [跟我学C++高级篇——名称反射创建对象的一种实现](https://mp.weixin.qq.com/s/Ec7W48Keyy6E37G2I8qk5Q)
-[一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
-[C++中设计好用的API](https://mp.weixin.qq.com/s/KmLiKA55Bc9nIbkS47J7mA)
-[C++的函数如何返回多个值？](https://mp.weixin.qq.com/s/-PJ2b_AtE1wuQDFfClewkA)
 [跟我学c++高级篇——C++26反射预览](https://mp.weixin.qq.com/s/O568GHyBLw5jLtU7s2kKJQ)
 [跟我学C++高级篇——回调函数及应用](https://mp.weixin.qq.com/s/uyz_RS8Lug47G8puNp1vMQ)
+[跟我学C++高级篇—DWARF格式与调试](https://mp.weixin.qq.com/s/w_AIMPkerLbePUa02ufEsQ)
+
+
 [C++反射-简介](https://mp.weixin.qq.com/s/kmBS8N-xf_dyWDKc7iuEWw)
-[跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
-[跟我学C++中级篇—constexpr在字符串上的应用](https://mp.weixin.qq.com/s/bl0y39jm7tRjTbdBIGdEbA)
 
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
@@ -132,6 +150,7 @@
 [c++23中的新功能之十六std::forward_like](https://mp.weixin.qq.com/s/Pb7pjEKvSXMTvUjlFxWuag)
 [c++23中的新功能之十七显示this的应用](https://mp.weixin.qq.com/s/p_mtMllkt_EK_dCrK0fGqg)
 [c++23中的新功能之十八新增的属性](https://mp.weixin.qq.com/s/XKdJYLWul70x60M2Vmy0QQ)
+[c++23中的print和println](https://mp.weixin.qq.com/s/lCHCglWA_0a_vVy7itCp8Q)
 [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
 [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
@@ -263,7 +282,10 @@
 [并行编程实战——CUDA编程的驱动接口与运行时接口的分析](https://mp.weixin.qq.com/s/Q7Mty1NzYG7cg0_FmmvQ3w)
 [并行编程实战——CUDA编程的Stream](https://mp.weixin.qq.com/s/vDIzJh0mLEb_cA659dguwg)
 [并行编程实战——CUDA编程的延迟加载](https://mp.weixin.qq.com/s/ARHBWX5Yq2ga8lxOO_STKQ)
-
+[并行编程实战——CUDA编程的Warp](https://mp.weixin.qq.com/s/eu2r0lz5-i_2m5aEaHPq6Q)
+[并行编程实战——CUDA编程的动态并行性介绍](https://mp.weixin.qq.com/s/ZQzcPssZakqBuUkK7V74iA)
+[并行编程实战——CUDA编程的回调函数](https://mp.weixin.qq.com/s/K5YfHe5WYrTdwmJ9kUea-g)
+[并行编程实战——CUDA编程的流的优先级](https://mp.weixin.qq.com/s/F3BmCoHgWwBTydl_FGbSMw)
 
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
@@ -372,3 +394,7 @@ DOSBox虚拟机运行16位程序。 https://www.dosbox.com/download.php?main=1
 
 # 实际应用
 [百度身份证C++离线SDK接入](https://mp.weixin.qq.com/s/-r8YnaOmkIa3MqfnjVVtZQ)
+
+# Architecture
+## risc-v
+[risc-v进阶篇（启动代码详解——中断异常篇）](https://mp.weixin.qq.com/s/8j7WWs3fai7KEuxJyt348A)

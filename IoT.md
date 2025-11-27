@@ -41,6 +41,7 @@ https://microsoft.github.io/devicescript/
 [天气行动ESP32：http_client的使用](https://mp.weixin.qq.com/s/pjWehdoDkQhllhpgW6fqPA)
 [MicroPython 的远程控制工具 mpremote](https://mp.weixin.qq.com/s/RMKINRgGRw-LPTPTpSnUPA)
 [ESP32-P4 玩转 ESP-DL：实现YOLO v11目标检测](https://mp.weixin.qq.com/s/k_djOZQOcJ3r13Tn-SHWMA)
+[ESP32可以用来做爬虫服务器吗](https://mp.weixin.qq.com/s/ZRc8unSMQVGyYlCf9vk5Jw)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 
@@ -52,7 +53,9 @@ https://microsoft.github.io/devicescript/
 [LCD扩展板资料](https://doc.openluat.com/wiki/21)
 [温湿度传感器AHT10资料](https://doc.openluat.com/wiki/21)
 [三轴加速度陀螺仪MPU6050资料](https://doc.openluat.com/wiki/21)
-  
+
+[#PDF | ESP32开发指南（开源一小步）V12.pdf](https://gitcode.com/Premium-Resources/d82c1/blob/main/ESP32%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%EF%BC%88%E5%BC%80%E6%BA%90%E4%B8%80%E5%B0%8F%E6%AD%A5%EF%BC%89V12.pdf)
+
 ## 案例
 
 [仅1.3万元，源码交付 IoT 物联网设备管理运维MES系统，含巡检、维修、保养、盘点、排班、采购管理](https://mp.weixin.qq.com/s/we-L45xj4d8mmRtc7eRhiw)
@@ -64,6 +67,11 @@ https://microsoft.github.io/devicescript/
 [#平台 | ThingsBoard，专门解决物联网设备管理和数据可视化的痛点。](https://mp.weixin.qq.com/s/-zoL3gw8Z0UpvP2nCcn9zg)
 [#平台 | 私有化部署，企业级开源 3D 数字孪生低代码平台，IoT 物联网可视化Web 大屏交付必备](https://mp.weixin.qq.com/s/DdIRncxYrkfkqQXEb4lAmQ)
 [#平台 | 10万开发者推荐！基于 WebGL的开源 3D 数字孪生引擎，IoT 物联网可视化大屏神器](https://mp.weixin.qq.com/s/bS0bxjkXGrN5d9UeATLgMQ)
+[#平台 | 开箱即用！推荐一款国产Web 工业IoT组态软件，支持Modbus、OPC，支持拖拉拽，内置海量光伏能源模板，可二次开发](https://mp.weixin.qq.com/s/9--1qaHHW4ZyEXB5eXYBXA)
+[#平台 | 国产信创私有化部署！IoTStudio 开源轻量级工业物联网平台，内置物模型、规则引擎、Modbus协议库、拖拉拽Web组态大屏](https://mp.weixin.qq.com/s/_HushXztjG5btyEyGQlYqA)
+[#平台 | 30+行业模板，国产开源 3D 数字孪生低代码平台，可私有化部署，IoT 物联网Web可视化大屏交付必备](https://mp.weixin.qq.com/s/E6s21C7ONR6vYcjCMlkWQA)
+
+
 [30元，嵌入式大神手搓智能指纹门锁！乐鑫ESP32主控，蓝牙配网，人体检测，支持微信小程序](https://mp.weixin.qq.com/s/3T_CA-IbSTqPHWgsenbxGQ)
 
 [Sim卡模块链接](https://detail.tmall.com/item.htm) [SIM800L](https://www.bilibili.com/video/BV1YYkEYHEwp/) [SIM800C](https://www.bilibili.com/video/BV1QUkLYCEvF/)
@@ -84,3 +92,9 @@ https://microsoft.github.io/devicescript/
 [SIM800 参考例程](https://pan.baidu.com/s/1R8ttv3zq6Mcp9enS-aBBzg#q0jq) [操作视频](https://www.bilibili.com/video/BV1om4y1A7id/) [SIM800L资料下载链接：](https://pan.baidu.com/s/1QskIbtVqQdTHnOzHuAznag#fz5h)
 # Tutorials
 [IoT- From Basic to Advanced](https://www.0daydown.com/04/2381098.html)
+
+# Website
+航天云网 - 工控/数字孪生 https://www.casicloud.com/
+
+一个开放的(开源并可以访问多个物联网云)物联网开发框架,支持快速将智能设备集成到物联网云中。
+[TuyaOpen | AI+IoT 开发框架](https://github.com/tuya/TuyaOpen/blob/master/README_zh.md)

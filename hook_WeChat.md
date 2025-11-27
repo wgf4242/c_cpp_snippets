@@ -172,3 +172,6 @@ https://blog.csdn.net/u010256831?type=blog
 ## Hook Framework
 [wechat-hook：一款开源的微信hook机器人框架](https://mp.weixin.qq.com/s/-nrV9P7omF8bDK_so9r7sA)
 [【喂饭级教程】基于Hook机制的微信AI机器人，无需服务器，运行更稳定，X号风险更小](https://mp.weixin.qq.com/s/_Bx95oGKjfzSrswV1uzuMg)
+
+## 小程序
+[小程序强开控制台方法（支持最新版微信）](https://mp.weixin.qq.com/s/4eCEI--pwNkJgtwj4FnGRA)
