@@ -27,6 +27,7 @@
 [C++编程实践——分布式文件系统](https://mp.weixin.qq.com/s/85G8z8Li4nn1uharfgl_0g)
 [C++编程实践——magic_enum的应用](https://mp.weixin.qq.com/s/bIB3tBLtwZBkJx4INzLGMg)
 [C++编程实践——标准库overloaded实现分析](https://mp.weixin.qq.com/s/u2afmiUZ06Y7PeQ1ts-3GQ)
+[C++编程实践——string::append的高效性](https://mp.weixin.qq.com/s/z1CoIIcXkNzIw-iDNh4yZw)
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -151,6 +152,8 @@
 [c++23中的新功能之十七显示this的应用](https://mp.weixin.qq.com/s/p_mtMllkt_EK_dCrK0fGqg)
 [c++23中的新功能之十八新增的属性](https://mp.weixin.qq.com/s/XKdJYLWul70x60M2Vmy0QQ)
 [c++23中的print和println](https://mp.weixin.qq.com/s/lCHCglWA_0a_vVy7itCp8Q)
+[C++23中的import开发实践](https://mp.weixin.qq.com/s/6dHOGtdEGaxULpVr4agiKA)
+
 [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
 [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
@@ -286,6 +289,7 @@
 [并行编程实战——CUDA编程的动态并行性介绍](https://mp.weixin.qq.com/s/ZQzcPssZakqBuUkK7V74iA)
 [并行编程实战——CUDA编程的回调函数](https://mp.weixin.qq.com/s/K5YfHe5WYrTdwmJ9kUea-g)
 [并行编程实战——CUDA编程的流的优先级](https://mp.weixin.qq.com/s/F3BmCoHgWwBTydl_FGbSMw)
+[并行编程实战——CUDA编程的动态并行性应用](https://mp.weixin.qq.com/s/q6jeCpTRRIzvx7UpmIiOvQ)
 
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
