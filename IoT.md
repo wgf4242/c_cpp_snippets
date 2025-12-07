@@ -70,7 +70,7 @@ https://microsoft.github.io/devicescript/
 [#平台 | 开箱即用！推荐一款国产Web 工业IoT组态软件，支持Modbus、OPC，支持拖拉拽，内置海量光伏能源模板，可二次开发](https://mp.weixin.qq.com/s/9--1qaHHW4ZyEXB5eXYBXA)
 [#平台 | 国产信创私有化部署！IoTStudio 开源轻量级工业物联网平台，内置物模型、规则引擎、Modbus协议库、拖拉拽Web组态大屏](https://mp.weixin.qq.com/s/_HushXztjG5btyEyGQlYqA)
 [#平台 | 30+行业模板，国产开源 3D 数字孪生低代码平台，可私有化部署，IoT 物联网Web可视化大屏交付必备](https://mp.weixin.qq.com/s/E6s21C7ONR6vYcjCMlkWQA)
-
+[#平台 | 翠鸟智擎·3D SCADA，零代码、轻量化、三维组态，重塑工业IoT物联网可视化未来！](https://mp.weixin.qq.com/s/uE1GvDcy7etwxA0afj1mgQ)
 
 [30元，嵌入式大神手搓智能指纹门锁！乐鑫ESP32主控，蓝牙配网，人体检测，支持微信小程序](https://mp.weixin.qq.com/s/3T_CA-IbSTqPHWgsenbxGQ)
 
