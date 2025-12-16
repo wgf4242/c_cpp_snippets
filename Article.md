@@ -29,6 +29,7 @@
 [C++编程实践——标准库overloaded实现分析](https://mp.weixin.qq.com/s/u2afmiUZ06Y7PeQ1ts-3GQ)
 [C++编程实践——string::append的高效性](https://mp.weixin.qq.com/s/z1CoIIcXkNzIw-iDNh4yZw)
 [C++编程实践——标准库中容器存储目标分析](https://mp.weixin.qq.com/s/MbE9e4FxFCnepi29vJj3BQ)
+[C++编程实践——条件变量中wait和std::unique_lock关系](https://mp.weixin.qq.com/s/Fd3l8FvMl84hI-5UL0ST2g)
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -62,7 +63,7 @@
 [跟我学C++中级篇——重载问题分析之运算符重载的问题分析](https://mp.weixin.qq.com/s/31SY8N5GmxngRhh8csI-lg)
 [跟我学C++中级篇——内存访问违例](https://mp.weixin.qq.com/s/3bJ_zjej7LzOx3FL_zSLOA)
 [跟我学C++中级篇——Linux系统信号分析](https://mp.weixin.qq.com/s/v8rAXM8QoJximFZnG9wiEQ)
-
+[跟我学C++中级篇——循环展开的分析](https://mp.weixin.qq.com/s/FmKJDpaXESIKY6k3ioRfNQ)
 
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
@@ -159,6 +160,7 @@
 [c++23中的print和println](https://mp.weixin.qq.com/s/lCHCglWA_0a_vVy7itCp8Q)
 [C++23中的import开发实践](https://mp.weixin.qq.com/s/6dHOGtdEGaxULpVr4agiKA)
 [C++23中的import使用CMake实践](https://mp.weixin.qq.com/s/XB_rBhrDu_PcDCMmLKHBIA)
+[C++23中的自定义模块开发](https://mp.weixin.qq.com/s/IrSb9FqN9KvYg_AOAHisBQ)
 
 [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
@@ -296,6 +298,8 @@
 [并行编程实战——CUDA编程的回调函数](https://mp.weixin.qq.com/s/K5YfHe5WYrTdwmJ9kUea-g)
 [并行编程实战——CUDA编程的流的优先级](https://mp.weixin.qq.com/s/F3BmCoHgWwBTydl_FGbSMw)
 [并行编程实战——CUDA编程的动态并行性应用](https://mp.weixin.qq.com/s/q6jeCpTRRIzvx7UpmIiOvQ)
+[并行编程实战——CUDA编程的混合编程](https://mp.weixin.qq.com/s/wchYZovUqp1IM59ZFKBytA)
+[并行编程实战—CUDA、OpenCL、SYCL和ROCm的介绍](https://mp.weixin.qq.com/s/BnlWV2rS47NhsV4GodK0DQ)
 
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
