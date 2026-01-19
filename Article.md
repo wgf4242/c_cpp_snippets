@@ -30,6 +30,12 @@
 [C++编程实践——string::append的高效性](https://mp.weixin.qq.com/s/z1CoIIcXkNzIw-iDNh4yZw)
 [C++编程实践——标准库中容器存储目标分析](https://mp.weixin.qq.com/s/MbE9e4FxFCnepi29vJj3BQ)
 [C++编程实践——条件变量中wait和std::unique_lock关系](https://mp.weixin.qq.com/s/Fd3l8FvMl84hI-5UL0ST2g)
+[C++编程实践——多线程变量共享问题展开分析](https://mp.weixin.qq.com/s/Pu1OZWmgxj9_9uv7DiVsNA)
+[C++编程实践—多线程崩溃的一种问题分析](https://mp.weixin.qq.com/s/SKR8sPOCWmTDadGbnWp7CQ)
+[C++编程实践——std::void_t的实践应用](https://mp.weixin.qq.com/s/-8O8aQ6dlkjUESvk3iMOOg)
+[C++编程实践—false_type和true_type的实践应用](https://mp.weixin.qq.com/s/MdQmMGe4SpSF1P-dG5oeGg)
+[C++编程实践——链式调用的实践](https://mp.weixin.qq.com/s/cwH5QmhSbeOzMrcXZk73PQ)
+
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -64,6 +70,14 @@
 [跟我学C++中级篇——内存访问违例](https://mp.weixin.qq.com/s/3bJ_zjej7LzOx3FL_zSLOA)
 [跟我学C++中级篇——Linux系统信号分析](https://mp.weixin.qq.com/s/v8rAXM8QoJximFZnG9wiEQ)
 [跟我学C++中级篇——循环展开的分析](https://mp.weixin.qq.com/s/FmKJDpaXESIKY6k3ioRfNQ)
+[跟我学C++中级篇——类型检测和安全控制](https://mp.weixin.qq.com/s/-Kc7pRilx-AX1MoWvS9gfQ)
+[跟我学C++中级篇——is_detected的手动实现](https://mp.weixin.qq.com/s/DrAwI1jewppm8b7z7NcgjQ)
+[跟我学C++中级篇——宏与constexpr](https://mp.weixin.qq.com/s/HcjgtQojO3gmcj7u41xQkg)
+[跟我学C++中级篇——constinit避免SIOF](https://mp.weixin.qq.com/s/o4TBO3vx08X-sTyl5rkoBQ)
+[跟我学C++中级篇——取地址操作](https://mp.weixin.qq.com/s/8qr71N-OyL8XImxzyy03zA)
+[跟我学C++中级篇——对类const关键字的分析说明](https://mp.weixin.qq.com/s/KzHYyGnCw0_An4W2Tessrg)
+[跟我学C++中级篇—std::is_swappable手动实现](https://mp.weixin.qq.com/s/_F3HwAdKAL7jj4dj49h4dA)
+[跟我学C++中统篇—STL中的bind](https://mp.weixin.qq.com/s/WJfQaq3nrNeDumTz37CEWA)
 
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
@@ -135,6 +149,7 @@
 
 [C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
 
+[C++17 | 实时通信的新选择：libdatachannel](https://mp.weixin.qq.com/s/AMchkLryccTDN3DUoIqW-g)
 [C++20 中​constinit](https://mp.weixin.qq.com/s/cAN4WUpI7x6xw0H2sTacug)
 [C++20实战之channel](https://mp.weixin.qq.com/s/spHtymMAEkTw3c5uN9cXKQ)
 [C++20中的counting_semaphore的应用](https://mp.weixin.qq.com/s/4UEXy_pSWZ0daMu8N2Ew6A)
@@ -161,6 +176,10 @@
 [C++23中的import开发实践](https://mp.weixin.qq.com/s/6dHOGtdEGaxULpVr4agiKA)
 [C++23中的import使用CMake实践](https://mp.weixin.qq.com/s/XB_rBhrDu_PcDCMmLKHBIA)
 [C++23中的自定义模块开发](https://mp.weixin.qq.com/s/IrSb9FqN9KvYg_AOAHisBQ)
+[C++23中的模块应用说明之一基础分析](https://mp.weixin.qq.com/s/6K1XbF2-590hCNJ2pPUAqQ)
+[C++23中的模块应用说明之二整体说明和导出控制](https://mp.weixin.qq.com/s/pVYp6u4rHSes_BxzojpNpQ)
+[C++23中的模块应用说明之三深入分析和混合编程](https://mp.weixin.qq.com/s/iazagmzvbBj0XDudqaSBAw)
+[C++23中的模块应用说明之四模块的导出分类和规则](https://mp.weixin.qq.com/s/FQMikGgG07iEl5gUP0JxhA)
 
 [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
@@ -197,6 +216,7 @@
 [模板 | 现代C++（8）：typename优化，模板参数优化，模板实参推导，CTAD](https://mp.weixin.qq.com/s/4Ok6BOuHDYu_u8CV6G2Tog)
 [模板 | 跟我学c++高级篇——模板的ADL](https://mp.weixin.qq.com/s/d-denCz2O2ypNB_JFbo68Q)
 [模板 | 跟我学c++高级篇——多重模板的扩展](https://mp.weixin.qq.com/s/RovFs5S5AHI-2STl_xOsRg)
+[模板编程—模板编程处理curry](https://mp.weixin.qq.com/s/ro-H3FYI_yI7bL-vv8O6pw)
 [stl | 学习STL：list 容器详解](https://mp.weixin.qq.com/s/ei4bNiUWG0pNmiWmRxudqg)
 [stl | C++ stl标准库中的 deque 是什么](https://mp.weixin.qq.com/s/JJmlIgDLveJPGDYc3dglvw)
 [stl | 学习STL：深nitor](https://mp.weixin.qq.com/s/NFWpQTtt7wNUeKldSSL0cQ)
@@ -300,6 +320,11 @@
 [并行编程实战——CUDA编程的动态并行性应用](https://mp.weixin.qq.com/s/q6jeCpTRRIzvx7UpmIiOvQ)
 [并行编程实战——CUDA编程的混合编程](https://mp.weixin.qq.com/s/wchYZovUqp1IM59ZFKBytA)
 [并行编程实战—CUDA、OpenCL、SYCL和ROCm的介绍](https://mp.weixin.qq.com/s/BnlWV2rS47NhsV4GodK0DQ)
+[并行编程实战——CUDA编程的内核循环展开](https://mp.weixin.qq.com/s/EQwqWGiNunnbFSzdHzCJpA)
+[并行编程实战——CUDA编程的统一内存](https://mp.weixin.qq.com/s/ZYCFcadImfDHkVEJd-GaCg)
+[并行编程实战——CUDA编程的统一内存的预取](https://mp.weixin.qq.com/s/O8AxCa5WN6C1714HmAL4dw)
+[并行编程实战——CUDA编程的MPI和MPS](https://mp.weixin.qq.com/s/JXNf-MRewDdJSxyDbiPmWw)
+[并行编程实战——CUDA编程的事件](https://mp.weixin.qq.com/s/6r11hiBuafx5T7wVBzm4QQ)
 
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)

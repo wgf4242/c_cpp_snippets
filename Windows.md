@@ -131,6 +131,8 @@ int _tmain()
 
 ## 安全编程/免杀/shellcode
 
+#TODO [Video | 【全15集】恶意代码开发教程从零基础到精通](https://www.bilibili.com/video/BV113rfB5Euk)
+
 [shellcode loader 的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
 [在 ShellCode 里面使用异常处理(Win64 位平台)](https://mp.weixin.qq.com/s/I2lw1j63QsDmjtKyJalveg)
 

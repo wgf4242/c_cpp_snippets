@@ -191,5 +191,9 @@ https://space.bilibili.com/95835298/video
 [游戏辅助 -- 实战找人物对象基址](https://mp.weixin.qq.com/s/GuIHgnQ9RBLmpiNKhxfPyA)
 [游戏辅助 -- 背包对象基址的分析方法](https://mp.weixin.qq.com/s/bQ5M5Ar_LwjK5dL1ZXXpHA)
 
+## bypass/绕过
+[5分钟学会制作防检测CE-1](https://www.bilibili.com/video/BV1C1rTBFEZD)
+
+
 ## Type1
 [逆向分析VT加持的无畏契约纯内核挂](https://mp.weixin.qq.com/s/Utm-bFqVCj3B-fZetXny-g)

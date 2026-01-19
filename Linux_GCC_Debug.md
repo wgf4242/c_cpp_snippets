@@ -5,6 +5,7 @@ sudo apt -y install gcc-multilib # 32位支持
 
 [C++中如何调用.so共享库？](https://mp.weixin.qq.com/s/9viH3pGI_mpBXYPQhjJ0Iw)
 [跟我学C++中级篇——Linux常见的异步编程方式](https://mp.weixin.qq.com/s/3WMJFHUSGFNOUe4U7YONRg)
+[跟我学C++中级篇—Linux内核中链表分析](https://mp.weixin.qq.com/s/vJfmZON6L79pcHiXtT2Z1w)
 
 ## 编译为汇编
 
@@ -39,6 +40,16 @@ gcc -fstack-protector-all -o test test.c //启用堆栈保护，为所有函数�
 # win 下编译输出 GBK编码
 gcc -finput-charset=GBK -fexec-charset=GBK testadd.c -o main.exe
 ```
+
+编译选项
+
+| params    | example                 |                                                              |
+| --------- | ----------------------- | ------------------------------------------------------------ |
+| 预处理 -E | gcc -E test.c -o test.i | 成预处理后的C代码-文本文件                                   |
+| 编译 -S   | gcc -S test.i -o test.s | 生成汇编代码文件                                             |
+| 汇编 -c   | gcc -c test.s -o test.o | 生成二进制文件                                               |
+| 链接 -o   | gcc test.o -o test      | 把目标文件和库文件（比如printf函数所在的libc库）结合，生成可执行文件 |
+
 
 链接参数 LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
 

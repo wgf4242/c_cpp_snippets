@@ -42,6 +42,7 @@ https://microsoft.github.io/devicescript/
 [MicroPython 的远程控制工具 mpremote](https://mp.weixin.qq.com/s/RMKINRgGRw-LPTPTpSnUPA)
 [ESP32-P4 玩转 ESP-DL：实现YOLO v11目标检测](https://mp.weixin.qq.com/s/k_djOZQOcJ3r13Tn-SHWMA)
 [ESP32可以用来做爬虫服务器吗](https://mp.weixin.qq.com/s/ZRc8unSMQVGyYlCf9vk5Jw)
+[ESP32-S3 定时器详解：esp_timer 与 GPTimer 的工程级选择](https://mp.weixin.qq.com/s/FCkzdNHM0dXd4j2jDgEcDg)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 
@@ -71,6 +72,8 @@ https://microsoft.github.io/devicescript/
 [#平台 | 国产信创私有化部署！IoTStudio 开源轻量级工业物联网平台，内置物模型、规则引擎、Modbus协议库、拖拉拽Web组态大屏](https://mp.weixin.qq.com/s/_HushXztjG5btyEyGQlYqA)
 [#平台 | 30+行业模板，国产开源 3D 数字孪生低代码平台，可私有化部署，IoT 物联网Web可视化大屏交付必备](https://mp.weixin.qq.com/s/E6s21C7ONR6vYcjCMlkWQA)
 [#平台 | 翠鸟智擎·3D SCADA，零代码、轻量化、三维组态，重塑工业IoT物联网可视化未来！](https://mp.weixin.qq.com/s/uE1GvDcy7etwxA0afj1mgQ)
+[#平台 | IoT必备！国产物联网Dashboard 仪表盘设计器，支持 ECharts 、ElementUI，轻松搭建Web可视化大屏](https://mp.weixin.qq.com/s/SbA8PtvhbHRllPx42kk0UA)
+[#平台 | 源码交付！工业制造4.0企业数字化转型MES系统，含巡检、维修、保养、盘点、排班、采购管理等11大核心模块](https://mp.weixin.qq.com/s/3L7jM_tz1T3kWciOsdCoCA)](https://mp.weixin.qq.com/s/SbA8PtvhbHRllPx42kk0UA)
 
 [30元，嵌入式大神手搓智能指纹门锁！乐鑫ESP32主控，蓝牙配网，人体检测，支持微信小程序](https://mp.weixin.qq.com/s/3T_CA-IbSTqPHWgsenbxGQ)
 
