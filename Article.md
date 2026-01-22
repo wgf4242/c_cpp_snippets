@@ -78,6 +78,7 @@
 [跟我学C++中级篇——对类const关键字的分析说明](https://mp.weixin.qq.com/s/KzHYyGnCw0_An4W2Tessrg)
 [跟我学C++中级篇—std::is_swappable手动实现](https://mp.weixin.qq.com/s/_F3HwAdKAL7jj4dj49h4dA)
 [跟我学C++中统篇—STL中的bind](https://mp.weixin.qq.com/s/WJfQaq3nrNeDumTz37CEWA)
+[跟我学C++中级篇——文件和目录](https://mp.weixin.qq.com/s/SXhr63ybwep3TZe3ERo2Nw)
 
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
