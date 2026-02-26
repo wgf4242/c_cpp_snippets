@@ -1,0 +1,13 @@
+set(FRUITS_1 "Apple" "Banana" "Cherry" "Date")
+set(FRUITS_2 "Grape;Pear;Peach")
+list(APPEND FRUITS_2 "Apple")
+
+foreach(ITEM ${FRUITS_2})
+    message(STATUS "当前水果: ${ITEM}")
+endforeach()
+
+# foreach(I RANGE 1 5) # 从1到5
+# foreach(I RANGE 1 5 2) # 从1到5 步进2
+foreach(I RANGE 3)
+    message(STATUS "当前索引: ${I}")
+endforeach()

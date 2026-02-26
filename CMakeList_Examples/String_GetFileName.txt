@@ -1,0 +1,4 @@
+set(MY_FILE "src/hello_world.c")
+# 2. 获取文件名 (name without ext, "hello_world")
+get_filename_component(RESULT ${MY_FILE} NAME_WE)
+message(STATUS "提取到的文件名是: ${RESULT}")

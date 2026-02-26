@@ -1,0 +1,15 @@
+file(GLOB ALL_C_FILES "*.c")
+set(COUNT 1)
+foreach(FILE ${ALL_C_FILES})
+    # 方案：统一使用 "target_" + 数字作为目标名
+    set(EXE_NAME "exercise_${COUNT}")
+
+    # 打印一下，方便你在 CLion 的运行列表中找到对应关系
+    get_filename_component(RAW_NAME ${FILE} NAME)
+    message(STATUS "Mapping: ${EXE_NAME} --> ${RAW_NAME}")
+
+    add_executable(${EXE_NAME} ${FILE})
+
+    # 计数器加 1
+    math(EXPR COUNT "${COUNT} + 1")
+endforeach()

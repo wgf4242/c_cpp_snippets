@@ -1,0 +1,7 @@
+set(COUNT 0)
+foreach(I RANGE 1 5)
+    math(EXPR COUNT "${COUNT} + 2")
+    message(STATUS "第 ${I} 次循环，COUNT 当前值为: ${COUNT}")
+endforeach()
+
+message(STATUS "最终结果: ${COUNT}")

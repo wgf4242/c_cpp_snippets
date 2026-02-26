@@ -1,0 +1,12 @@
+build*/
+.idea/
+.vs/
+cmake-build-*/
+/CMakeSettings.json
+
+build64
+build
+CMakeFiles
+.github
+CMakeLists.txt
+CMakeCache.txt

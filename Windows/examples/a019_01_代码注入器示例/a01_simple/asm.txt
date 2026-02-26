@@ -1,0 +1,17 @@
+// 使用代码注入器
+
+push 00058B30
+push 0
+call 0x51023
+add esp, 8
+ret
+
+
+-------
+------- 不加0x效果也一样, 就按16进制算的
+
+push 0x058B30      ; L"Hello"
+push 0             ; hwnd
+call 0x51023       ; MessageBoxW
+add esp, 8         ; 清理刚才 push 的两个参数
+ret
