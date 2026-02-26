@@ -32,10 +32,11 @@
 [C++编程实践——条件变量中wait和std::unique_lock关系](https://mp.weixin.qq.com/s/Fd3l8FvMl84hI-5UL0ST2g)
 [C++编程实践——多线程变量共享问题展开分析](https://mp.weixin.qq.com/s/Pu1OZWmgxj9_9uv7DiVsNA)
 [C++编程实践—多线程崩溃的一种问题分析](https://mp.weixin.qq.com/s/SKR8sPOCWmTDadGbnWp7CQ)
+[设计心得—如何使用多线程开发](https://mp.weixin.qq.com/s/CdRirqrEvFaEak88so6J1w)
 [C++编程实践——std::void_t的实践应用](https://mp.weixin.qq.com/s/-8O8aQ6dlkjUESvk3iMOOg)
 [C++编程实践—false_type和true_type的实践应用](https://mp.weixin.qq.com/s/MdQmMGe4SpSF1P-dG5oeGg)
 [C++编程实践——链式调用的实践](https://mp.weixin.qq.com/s/cwH5QmhSbeOzMrcXZk73PQ)
-
+[C++编程实践——signalfd](https://mp.weixin.qq.com/s/Fpr9nzR35mnsLYlHfHuWUQ)
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -79,6 +80,9 @@
 [跟我学C++中级篇—std::is_swappable手动实现](https://mp.weixin.qq.com/s/_F3HwAdKAL7jj4dj49h4dA)
 [跟我学C++中统篇—STL中的bind](https://mp.weixin.qq.com/s/WJfQaq3nrNeDumTz37CEWA)
 [跟我学C++中级篇——文件和目录](https://mp.weixin.qq.com/s/SXhr63ybwep3TZe3ERo2Nw)
+[跟我学C++中级篇——Lambda表达式的处理](https://mp.weixin.qq.com/s/miu0kAoQcToTtMJcXWPEOg)
+[跟我学C++中级篇—静态变量的生命周期控制](https://mp.weixin.qq.com/s/vH2wxNBi9Gd49_C7Ic9K5A)
+[跟我学C++中级篇—内存栅栏和内存序](https://mp.weixin.qq.com/s/C6nUao1v1iCr2D2tDGIbzg)
 
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
@@ -326,6 +330,19 @@
 [并行编程实战——CUDA编程的统一内存的预取](https://mp.weixin.qq.com/s/O8AxCa5WN6C1714HmAL4dw)
 [并行编程实战——CUDA编程的MPI和MPS](https://mp.weixin.qq.com/s/JXNf-MRewDdJSxyDbiPmWw)
 [并行编程实战——CUDA编程的事件](https://mp.weixin.qq.com/s/6r11hiBuafx5T7wVBzm4QQ)
+[并行编程实战——CUDA编程的MPI库分析说明](https://mp.weixin.qq.com/s/20dLz81tm3AeiwPXVG5Bqw)
+[并行编程实战—CUDA编程的精度操作](https://mp.weixin.qq.com/s/aejw699wu69HkLZGrnc4ZQ)
+[并行编程实战——CUDA环境的安装之高版本更新](https://mp.weixin.qq.com/s/j6gB4c9srvjMq3xG2ZXByQ)
+[并行编程实战——CUDA编程的Parallel Task类型](https://mp.weixin.qq.com/s/xCmFrxLAJDITcCfaFcvIQg)
+[并行编程实战——CUDA编程的并行前缀和](https://mp.weixin.qq.com/s/3sZVqDWQB9qfzrT0iasRFA)
+[并行编程实战——CUDA编程前缀和算法分析](https://mp.weixin.qq.com/s/ouQoIga817nK3ORBB2w39w)
+[并行编程实战—CUDA编程的占用率](https://mp.weixin.qq.com/s/u8RPJ_7SKTycMKESIZYxSQ)
+[并行编程实战——CUDA编程的Tile](https://mp.weixin.qq.com/s/oJK5zfy6ZN05dELqJCb_Qw)
+[并行编程实战—CUDA warp的分歧效应](https://mp.weixin.qq.com/s/1-cAPQhCOsNKvuOLx3ohfg)
+[并行编程实战——CUDA编程的Enhancing Memory Allocation](https://mp.weixin.qq.com/s/B4I2_VzTwS0lJmmIlP2GAA)
+[并行编程实战——CUDA编程的技术路线推荐](https://mp.weixin.qq.com/s/r9CMgroFEuEbJt5MLNsMxg)
+[并行编程实战——CUDA编程的Warp Shuffle](https://mp.weixin.qq.com/s/V5CY8ZIsroN17fhu1AcYcw)
+[并行编程实战——CUDA编程的其它Warp函数](https://mp.weixin.qq.com/s/l3Vu_Xjwqe6h3xs3D5b4tw)
 
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)

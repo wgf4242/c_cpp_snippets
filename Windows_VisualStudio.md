@@ -97,7 +97,14 @@ cl.exe /LD ProcessHider.cpp /link /OUT:ProcessHider.dll
 
 ## 关闭随机地址
 
-解决方案管理器-属性 (Ctrl+Shift+E - Alt+Enter) - 链接器 - 高级 - 随机基址 - 否
+
+解决方案管理器-属性 (Ctrl+Shift+E - Alt+Enter) 
+1. 选择 x86 或x64
+- 链接器 - 高级 - 随机基址 - 否
+
+（可选） 
+基址： 0x400000 （随机基址上一行）
+固定基址：   yes则不会产生重定位表, no则生成重定位表…
 
 ## 添加 include .h 文件
 

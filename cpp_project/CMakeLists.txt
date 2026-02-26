@@ -9,9 +9,9 @@ set(CMAKE_CXX_STANDARD 26)
 #add_executable(1123 file_03_read_whole_content.cpp)
 file (GLOB files *.cpp a01_basic/*.cpp)
 foreach (file ${files})
-    string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
-    add_executable (${exe}cpp ${file})
-    message (\ \ \ \ --\ src/${exe}.cpp\ will\ be\ compiled\ to\ bin/${exe})
+    set(EXE_NAME "exercise_cpp_${COUNT}")
+    add_executable(${EXE_NAME} ${file})
+    math(EXPR COUNT "${COUNT} + 1")
 endforeach ()
 
 
