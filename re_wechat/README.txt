@@ -9,3 +9,8 @@
 
 ## Project
 https://github.com/holdyeah/wechat-pc-hook-python
+
+
+## 修改对话记录
+1.ce 搜索字符串，不要UTF16，修改后断网
+2.上下滚动到屏幕刷新

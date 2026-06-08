@@ -87,6 +87,8 @@ https://blog.csdn.net/u010256831?type=blog
 * [PC微信逆向：发送与接收消息的分析与代码实现](https://www.freebuf.com/articles/others-articles/210289.html)
 * [PC微信逆向分析の强制输出微信调式信息](https://bbs.kanxue.com/thread-257116.htm)
 * [PC微信逆向分析の绕过加密来访问SQLite数据库](https://bbs.kanxue.com/thread-257028.htm)
+* [解开 Windows 微信 4.0 版本的主数据库](https://mp.weixin.qq.com/s/JbyzB3NmFbHlGQJlgVGuDw)
+
 
 * 金酷码科技
 * [hook篇第1课 c++ pc微信hook介绍](https://www.bilibili.com/video/BV1Zo4y1w7JF/)

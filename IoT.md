@@ -43,6 +43,8 @@ https://microsoft.github.io/devicescript/
 [ESP32-P4 玩转 ESP-DL：实现YOLO v11目标检测](https://mp.weixin.qq.com/s/k_djOZQOcJ3r13Tn-SHWMA)
 [ESP32可以用来做爬虫服务器吗](https://mp.weixin.qq.com/s/ZRc8unSMQVGyYlCf9vk5Jw)
 [ESP32-S3 定时器详解：esp_timer 与 GPTimer 的工程级选择](https://mp.weixin.qq.com/s/FCkzdNHM0dXd4j2jDgEcDg)
+[WorkBuddy：微信对话控制ESP32点灯](https://mp.weixin.qq.com/s/avRBthdgJ9uJe_MTGudFFQ)
+
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 

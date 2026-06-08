@@ -16,7 +16,14 @@ cd vcpkg; .\bootstrap-vcpkg.bat
 vcpkg install lz4
 ```
 
+## 编译
+```sh
+# x64 Native Tools Command Prompt for VS 2022 启动
+cl /EHsc virtual_func.cpp
 
+# 设置C++ 标准版本
+cl /EHsc /std:c++latest a.cpp
+```
 
 ## 环境配置
 
@@ -163,7 +170,22 @@ cl -z7 main.c
 
 # 禁用可执行文件的 地址空间布局随机化（ASLR）
 editbin /DYNAMICBASE:NO m4_demo.exe
+
+# 带调试信息编译
+cl /EHsc /O2 /Zi virtual_func.cpp
+# 去符号信息编译+链接 
+cl.exe /O2 /DNDEBUG virtual_func.cpp /link /RELEASE /OPT:REF /OPT:ICF /OUT:output.exe
 ```
+| 参数         | 作用                                                         |
+| ------------ | ------------------------------------------------------------ |
+| /O2          | 编译优化（非去符号必需，但发布版必用，间接减少冗余符号）     |
+| /DNDEBUG     | 定义 NDEBUG 宏，关闭 assert 等调试代码（非去符号，但规范）   |
+| /link        | 告诉 cl.exe 后续参数传递给链接器 link.exe                    |
+| /RELEASE     | 链接器核心参数：设置 PE 文件的校验和，同时移除大部分调试符号 |
+| /OPT:REF     | 移除未引用的函数/数据（死代码），减少符号和文件体积          |
+| /OPT:ICF     | 合并重复的函数/数据（Identical Code Folding），进一步精简    |
+| /OUT:xxx.exe | 指定输出文件名称（可选，但建议显式指定）                     |
+
 ## 常用设置
 
 输出目录: $(SolutionDir)$(Platform)\$(Configuration)\

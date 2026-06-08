@@ -32,11 +32,24 @@
 [C++编程实践——条件变量中wait和std::unique_lock关系](https://mp.weixin.qq.com/s/Fd3l8FvMl84hI-5UL0ST2g)
 [C++编程实践——多线程变量共享问题展开分析](https://mp.weixin.qq.com/s/Pu1OZWmgxj9_9uv7DiVsNA)
 [C++编程实践—多线程崩溃的一种问题分析](https://mp.weixin.qq.com/s/SKR8sPOCWmTDadGbnWp7CQ)
-[设计心得—如何使用多线程开发](https://mp.weixin.qq.com/s/CdRirqrEvFaEak88so6J1w)
+[c++编程实践—宏和模板](https://mp.weixin.qq.com/s/x5Wz8nmTTQRA53GexZFKWA)
 [C++编程实践——std::void_t的实践应用](https://mp.weixin.qq.com/s/-8O8aQ6dlkjUESvk3iMOOg)
 [C++编程实践—false_type和true_type的实践应用](https://mp.weixin.qq.com/s/MdQmMGe4SpSF1P-dG5oeGg)
 [C++编程实践——链式调用的实践](https://mp.weixin.qq.com/s/cwH5QmhSbeOzMrcXZk73PQ)
 [C++编程实践——signalfd](https://mp.weixin.qq.com/s/Fpr9nzR35mnsLYlHfHuWUQ)
+[C++编程实践—为什么需要weak_ptr](https://mp.weixin.qq.com/s/sT0RyPNz9SoXKBL4k0iDTA)
+[C++编程实践—智能指针的自定义删除器](https://mp.weixin.qq.com/s/pl2BVen7XhsORwCUWzfeuw)
+[C++编程实践—CMake版本管理](https://mp.weixin.qq.com/s/0GtjA1SvDd4iQfltWXhqYQ)
+[C++编程实践—获取当前可执行文件名称](https://mp.weixin.qq.com/s/lrlu479nrLIzKP0ff6o-rw)
+[C++编程实践—C++处理磁盘大小](https://mp.weixin.qq.com/s/Dty35CVK2dyBvPHtByG0rg)
+[C++编程实践—解决if分支的具体的方法](https://mp.weixin.qq.com/s/HjRZeqIHyLVaG-1LSuijow)
+[c++编程实践—宏和模板](https://mp.weixin.qq.com/s/x5Wz8nmTTQRA53GexZFKWA)
+[c++编程实践—交叉编译](https://mp.weixin.qq.com/s/6XMZH-utjRCvdUXwthDbdQ)
+[c++编程实践——历史记录的管理](https://mp.weixin.qq.com/s/WpYFoBnF1kV-XX227Iu3gg)
+[c++编程实践—优化运行速度](https://mp.weixin.qq.com/s/3cTIozHXA65ZclW7FIAPEA)
+[C++编程实践——提高缓存的命中率](https://mp.weixin.qq.com/s/164k5_nht6DhjNcZVB2okw)
+[C++编程实践——线程池的设计](https://mp.weixin.qq.com/s/W0OEiB677EvI98__hQ5JNQ)
+[c++编程实践—参数名省略](https://mp.weixin.qq.com/s/mNhkP7hC5_vvFYlf8JcvlQ)
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -79,10 +92,20 @@
 [跟我学C++中级篇——对类const关键字的分析说明](https://mp.weixin.qq.com/s/KzHYyGnCw0_An4W2Tessrg)
 [跟我学C++中级篇—std::is_swappable手动实现](https://mp.weixin.qq.com/s/_F3HwAdKAL7jj4dj49h4dA)
 [跟我学C++中统篇—STL中的bind](https://mp.weixin.qq.com/s/WJfQaq3nrNeDumTz37CEWA)
-[跟我学C++中级篇——文件和目录](https://mp.weixin.qq.com/s/SXhr63ybwep3TZe3ERo2Nw)
+[跟我学C++中级篇——文件和目录](https://mp.weixin.qq.com/s/SXhr63ybwep3TZe3ERo2Nw) [内存映射（mmap）：高效文件操作的终极方案（含跨平台C++实战）](https://mp.weixin.qq.com/s/POlPHuQ7V3twD_qrwP8mVA)
 [跟我学C++中级篇——Lambda表达式的处理](https://mp.weixin.qq.com/s/miu0kAoQcToTtMJcXWPEOg)
 [跟我学C++中级篇—静态变量的生命周期控制](https://mp.weixin.qq.com/s/vH2wxNBi9Gd49_C7Ic9K5A)
 [跟我学C++中级篇—内存栅栏和内存序](https://mp.weixin.qq.com/s/C6nUao1v1iCr2D2tDGIbzg)
+[跟我学C++中级篇—奇异迭代器](https://mp.weixin.qq.com/s/1qtaYTdQafgcFtM3zuvLcw)
+[跟我学C++中级篇—悲观和乐观锁](https://mp.weixin.qq.com/s/c3Z-HwRuGgfPB4sK53J-4g)
+[跟我学c++中级篇—c++17的filesystem主要功能](https://mp.weixin.qq.com/s/22l86apGUmGbKaT_xVRSjQ)
+[跟我学C++中级篇—std::shared_ptr的线程安全性分析](https://mp.weixin.qq.com/s/uVmLCc0ltmD0nLm2CfV0UA)
+[跟我学C++中级篇—函数局部静态变量的线程安全性分析](https://mp.weixin.qq.com/s/uk_Nc7H2OxduO_mEo2mLUw)
+[跟我学C++中级篇—如何理解std::move](https://mp.weixin.qq.com/s/VNli1Vv7UvLIXSslx7axHA)
+[跟我学C++中级篇—C和C++中const的不同](https://mp.weixin.qq.com/s/BR8XVhukNRZyDh4Ts5slxg)
+[跟我学C++中级篇—Linux文件读写的分析](https://mp.weixin.qq.com/s/Tn6VjWSAcn8Y7UXtEVnAIg)
+[跟我学C++中级篇—虚函数的优化](https://mp.weixin.qq.com/s/wDQ10zrqXcB8znSFKaOPUg)
+[跟我学C++中级篇—迭代器标签](https://mp.weixin.qq.com/s/3V1q4w1YGKTM8m0ceSD5PA)
 
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
@@ -257,7 +280,9 @@
 [cherno | 用 C++ 制作漂亮的桌面应用程序](https://www.bilibili.com/video/BV1xh4y167T7/)
 
 ## 多线程
+[设计心得——如何设计主线程功能](https://mp.weixin.qq.com/s/ozD5OmY_HNgFFdvMkQyugw)
 [C++线程安全：共享数据的完美守护者](https://mp.weixin.qq.com/s/AojhztK0OmM3yxO-GHg6pA)
+[设计心得—如何使用多线程开发](https://mp.weixin.qq.com/s/CdRirqrEvFaEak88so6J1w)
 [C++ 多线程](https://mp.weixin.qq.com/s/4P_8YNZx5I0mEp4uPMtc3g)
 [C++ 多线程 | 一个基础的多线程案例](https://mp.weixin.qq.com/s/b8LIo9LhutMKXDfzXNK9Vw)
 [C++ 中的多线程编程：一种高效的并发处理方式](https://mp.weixin.qq.com/s/g2XjqbbouiXlVXfLlvK76w)
@@ -279,6 +304,10 @@
 [一步一步写线程之十二无锁编程](https://mp.weixin.qq.com/s/9hP7qe7oSUG2dYXGOZ-JBw)
 [一步一步写线程之十三队列间的消息通知](https://mp.weixin.qq.com/s/rUPP7DYDZPYvY3YpBTjk5Q)
 [一步一步写线程之十四并行编程和并行库](https://mp.weixin.qq.com/s/-17Wvsw6u28R-zn6mCnDzg)
+[并行编程实战——异步编程的屏障的整体分析](https://mp.weixin.qq.com/s/OQ1BoEAGZukeqlks91pl1A)
+[并行编程实战——异步编程的屏障具体分析](https://mp.weixin.qq.com/s/EKu3N5Fj_lsp5lZZk2LDDw)
+[并行编程实战——SYCL的调试](https://mp.weixin.qq.com/s/qdK2MXUzLRj_rszEl6KAcg)
+[并行编程实战——任务窃取](https://mp.weixin.qq.com/s/R7OL8wcPHiIHIxNokhUf5g)
 
 ### 并发
 
@@ -292,6 +321,7 @@
 [C++ 20 协程总结](https://mp.weixin.qq.com/s/r-KpExzWBEVQwDnO8FxtBA)
 [解密异步IO：使用C++进行高效的网络编程](https://mp.weixin.qq.com/s/TdYfv9CESPHtmjhYUu3lkw)
 [C++ 20 协程总结](https://mp.weixin.qq.com/s/3sx82NxCmNKpGcuDL1gXFA)
+[跟我学C++中级篇——协程为什么出现](https://mp.weixin.qq.com/s/9wakm6nYvVQ9XZ8w45zvIQ)
 
 ## 异常
 
@@ -307,7 +337,8 @@
 
 ## 通信
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
-
+[Linux C线程间通讯接口，互斥量和条件变量](https://mp.weixin.qq.com/s/3bZxMip5A0UB5PG2ZxICog)
+[线程间通信新方案——信号量](https://mp.weixin.qq.com/s/0CjgeV8izLIvFZ9_2b2gGQ)
 ## CUDA
 [并行编程实战——CUDA编程基础入门](https://mp.weixin.qq.com/s/TGq1U3d4Pw0oohc7XfRAnw)
 [并行编程实战——CUDA入门编程的函数](https://mp.weixin.qq.com/s/FmOlPnKRKUQi8K3K6PMXYg)
@@ -343,7 +374,13 @@
 [并行编程实战——CUDA编程的技术路线推荐](https://mp.weixin.qq.com/s/r9CMgroFEuEbJt5MLNsMxg)
 [并行编程实战——CUDA编程的Warp Shuffle](https://mp.weixin.qq.com/s/V5CY8ZIsroN17fhu1AcYcw)
 [并行编程实战——CUDA编程的其它Warp函数](https://mp.weixin.qq.com/s/l3Vu_Xjwqe6h3xs3D5b4tw)
-
+[并行编程实战——CUDA编程的稀疏矩阵处理](https://mp.weixin.qq.com/s/X1Son6OKkeQ0HbE7Ric7yw)
+[并行编程实战——CUDA编程中图之一基础说明](https://mp.weixin.qq.com/s/POIRS1aKpTgQiG7qQUXwiA)
+[并行编程实战——CUDA编程中图之二图的构造](https://mp.weixin.qq.com/s/GhMANy_t3EnX_4yNC3d80A)
+[并行编程实战——CUDA编程的图之四图的更新](https://mp.weixin.qq.com/s/PBMuqHDSJBrmIfN4xKGFnA)
+[并行编程实战——CUDA编程的打印输出](https://mp.weixin.qq.com/s/2mBDN0Yj8r0XL5tVX0eQeQ)
+[并行编程实战——CUDA基础的知识点](https://mp.weixin.qq.com/s/exSO5Oflk7hFsWgcyPmlWA)
+[并行编程实战——CUDA编程的异步拷贝](https://mp.weixin.qq.com/s/MvcCtJlQMfDld7d_hLb4KA)
 ## Package
 [C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
 [C++ 好用的 Json 解析库--JsonCpp](https://mp.weixin.qq.com/s/ghBTjt50CugNefXm5cd8qQ)

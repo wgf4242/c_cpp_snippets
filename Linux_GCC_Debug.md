@@ -21,6 +21,18 @@ gcc -c ./main.s -o main.o
 [Debug | 新手linux c++调试最佳利器--visual studio](https://zhuanlan.zhihu.com/p/27370373697)
 
 ```sh
+# 使用cpp新标准编译
+g++ -std=gnu++2a a.cpp -o out
+
+# 32位编译, 非随机基址
+path D:\mingw32\bin;%path% && gcc main.c -o main32.exe -Wl,--disable-dynamicbase
+
+# 64位编译, 非随机基址, 设置基址
+gcc main.c -o main64.exe -Wl,--disable-dynamicbase
+gcc main.c -o main64.exe -Wl,--disable-dynamicbase,--image-base=0x400000
+## 精简大小
+gcc main.c -o main64.exe -s -Os -Wl,--disable-dynamicbase
+
 # 在gcc编译时指定输出字符集，例如使用-fexec-charset=GBK选项。
 gcc -m16 -march=i386 -o example example.c # 16位编译
 gcc -m32 main.c       # 32位编译 "D:\mingw32\bin\gcc.exe"
@@ -53,36 +65,37 @@ gcc -finput-charset=GBK -fexec-charset=GBK testadd.c -o main.exe
 
 链接参数 LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
 
-| Params                 | Desc                                                                                                |
-| ---------------------- | --------------------------------------------------------------------------------------------------- |
-| -g                     | 添加调试信息, 能看源码                                                                                        |
-| -m32                   | 32 位编译                                                                                           |
-| -m64                   | 64 位编译                                                                                           |
-| -mx32                  | 将 int，long 和指针设为 32 位，适用于 X86-64                                                        |
+| Params                 | Desc                                                         |
+| ---------------------- | ------------------------------------------------------------ |
+| -g                     | 添加调试信息, 能看源码                                       |
+| -m32                   | 32 位编译                                                    |
+| -m64                   | 64 位编译                                                    |
+| -mx32                  | 将 int，long 和指针设为 32 位，适用于 X86-64                 |
 | -static                | 静态链接, 打包所有函数, 在 Visualstudio 中 /MT, /MTD 在 配置属性 - C/C++ - 代码生成 - 运行库 中设置 |
-| -s                     | strip 去符号 https://stackoverflow.com/questions/38675403/how-to-config-cmake-for-strip-file        |
-|                        | 或直接 strip main.exe 来缩小体积                                                                    |
-| -c                     | 编译对象(无 main)<br> gcc es3.c -c <br>gcc es3.o main.c -o es3 (编译 main 时包含 es3 对象)          |
-| ---- PWN ---           |
-| ---- PWN_NX(DEP) ---   |                                                                                                     |
-| -z execstack           | 禁用 NX 保护                                                                                        |
-| -z noexecstack         | 开启 NX 保护(默认) 堆栈禁止执行                                                                     |
-| -                      |
-| ---- PWN_RELRO ---     | GOT 写保护                                                                                          |
-| -z norelro             | 关闭                                                                                                |
-| -z lazy                | 部分开启, 默认                                                                                      |
-| -z now                 | 全部开启                                                                                            |
-| ---- PWN_PIE(ASLR) --- |                                                                                                     |
-| -no-pie                | 关闭 PIE, 地址不随机                                                                                |
-| -fpie -pie             | 开启 PIE，此时强度为 1                                                                              |
-| -fPIE -pie             | 开启 PIE，此时为最高强度 2 代码段、数据段地址随机化                                                 |
-| ---- PWN_CANARY ---    |                                                                                                     |
-| -fno-stack-protector   | 禁用                                                                                                |
-| -fstack-protector      | 开启                                                                                                |
-| -fstack-protector-all  | 完全开启 堆栈溢出哨兵                                                                               |
-| ---- PWN_FORTIFY ---   |                                                                                                     |
-| -D_FORTIFY_SOURCE=1    | 较弱的检查                                                                                          |
-| -D_FORTIFY_SOURCE=2    | 较强的检查 常用函数加强检查                                                                         |
+| -Os                    | 优化体积                                                     |
+| -s                     | strip 去符号 https://stackoverflow.com/questions/38675403/how-to-config-cmake-for-strip-file |
+|                        | 或直接 strip main.exe 来缩小体积                             |
+| -c                     | 编译对象(无 main)<br> gcc es3.c -c <br>gcc es3.o main.c -o es3 (编译 main 时包含 es3 对象) |
+| ---- PWN ---           |                                                              |
+| ---- PWN_NX(DEP) ---   |                                                              |
+| -z execstack           | 禁用 NX 保护                                                 |
+| -z noexecstack         | 开启 NX 保护(默认) 堆栈禁止执行                              |
+| -                      |                                                              |
+| ---- PWN_RELRO ---     | GOT 写保护                                                   |
+| -z norelro             | 关闭                                                         |
+| -z lazy                | 部分开启, 默认                                               |
+| -z now                 | 全部开启                                                     |
+| ---- PWN_PIE(ASLR) --- |                                                              |
+| -no-pie                | 关闭 PIE, 地址不随机                                         |
+| -fpie -pie             | 开启 PIE，此时强度为 1                                       |
+| -fPIE -pie             | 开启 PIE，此时为最高强度 2 代码段、数据段地址随机化          |
+| ---- PWN_CANARY ---    |                                                              |
+| -fno-stack-protector   | 禁用                                                         |
+| -fstack-protector      | 开启                                                         |
+| -fstack-protector-all  | 完全开启 堆栈溢出哨兵                                        |
+| ---- PWN_FORTIFY ---   |                                                              |
+| -D_FORTIFY_SOURCE=1    | 较弱的检查                                                   |
+| -D_FORTIFY_SOURCE=2    | 较强的检查 常用函数加强检查                                  |
 
 最后上 upx 减小体积
 

@@ -89,6 +89,7 @@ Makefile.patch 使用 patch 命令生成 Makefile
 [CMake:配置时运行自定义命令](https://mp.weixin.qq.com/s/PjqU8q9tkWYSgYu-Aglpfg)
 [CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
 [CMake: 配置时生成源码](https://mp.weixin.qq.com/s/Lv8FMN9WHdcWDNIUF5D4Wg)
+[工具使用—CMake文件中的常见变量](https://mp.weixin.qq.com/s/x0wjJsPRNiDo8kbd0uzuOg)(6月8日)
 
 ## Makefile
 [Makefile基础入门一：从编译小白到自动化构建达人](https://mp.weixin.qq.com/s/f4zbG0D5Sk6XtWLOjIg90A)
@@ -102,6 +103,8 @@ Makefile.patch 使用 patch 命令生成 Makefile
 # Detour 编译
 nmake /f Makefile
 ```
+
+
 
 # FAQ
 

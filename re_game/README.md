@@ -34,3 +34,5 @@
 ### 植物大战僵尸
 x[[逆向分析]纯OD/DBG分析植物大战僵尸冷却基址,涉及知识点ESP寻址](https://www.bilibili.com/video/BV1e1vxBnEy1)
 x[[逆向分析]纯od/dbg分析植物大战僵尸阳光基址](https://www.bilibili.com/video/BV1divyBuEg9)
+
+【AI红色警戒逆向分析之捡箱子逻辑-哔哩哔哩】 [AI红色警戒逆向分析之捡箱子逻辑_哔哩哔哩_bilibili](https://b23.tv/Zn44YAx)

@@ -170,6 +170,7 @@ https://github.com/Joe1sn/S-inject
 [【原创】优雅地在 Hook 时替换 std::string 的内容](https://www.52pojie.cn/thread-1905246-1-1.html)
 [高级进程注入之利用线程名和APC（下）](https://mp.weixin.qq.com/s/jfTTcUfyTladoRb1ZmvK2A)
 ["破碎注入"无痕注入不使用任何进程句柄的注入技术原理分析](https://mp.weixin.qq.com/s/mp_FcnPpvTEFPQ4LvBSE-A)
+[基于Windows线程池的新型进程注入技术—绕过全部主流EDR的深度剖析](https://mp.weixin.qq.com/s/KbmBHu11r8wqYt4cVLHiSg)
 
 ## 寻址
 
