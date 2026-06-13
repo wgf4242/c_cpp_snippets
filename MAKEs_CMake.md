@@ -90,7 +90,7 @@ Makefile.patch 使用 patch 命令生成 Makefile
 [CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
 [CMake: 配置时生成源码](https://mp.weixin.qq.com/s/Lv8FMN9WHdcWDNIUF5D4Wg)
 [工具使用—CMake文件中的常见变量](https://mp.weixin.qq.com/s/x0wjJsPRNiDo8kbd0uzuOg)(6月8日)
-
+[工具使用——CMake中的函数和宏](https://mp.weixin.qq.com/s/edMnPMabPk7rxBBjPEY2sg)
 ## Makefile
 [Makefile基础入门一：从编译小白到自动化构建达人](https://mp.weixin.qq.com/s/f4zbG0D5Sk6XtWLOjIg90A)
 [Makefile学习笔记二：Makefile函数精讲，让构建系统更智能的10个技巧](https://mp.weixin.qq.com/s/0p2fLXyZyZxY7eCrgx9h5g)
