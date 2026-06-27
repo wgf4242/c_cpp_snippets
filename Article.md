@@ -50,6 +50,9 @@
 [C++编程实践——提高缓存的命中率](https://mp.weixin.qq.com/s/164k5_nht6DhjNcZVB2okw)
 [C++编程实践——线程池的设计](https://mp.weixin.qq.com/s/W0OEiB677EvI98__hQ5JNQ)
 [c++编程实践—参数名省略](https://mp.weixin.qq.com/s/mNhkP7hC5_vvFYlf8JcvlQ)
+[C++编程实践——野指针分析](https://mp.weixin.qq.com/s/kcghvnEYH9L1gWlApWCcVA)
+[C++编程实践—变参模板和原地构造](https://mp.weixin.qq.com/s/1RT-rYI9mAWuppcp6h9UKg)
+[C++编程实践—优化和消除拷贝](https://mp.weixin.qq.com/s/w2Zp85CXqQQznMlcB5BpWg)
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -106,6 +109,9 @@
 [跟我学C++中级篇—Linux文件读写的分析](https://mp.weixin.qq.com/s/Tn6VjWSAcn8Y7UXtEVnAIg)
 [跟我学C++中级篇—虚函数的优化](https://mp.weixin.qq.com/s/wDQ10zrqXcB8znSFKaOPUg)
 [跟我学C++中级篇—迭代器标签](https://mp.weixin.qq.com/s/3V1q4w1YGKTM8m0ceSD5PA)
+[跟我学C++中级篇——如何使用继承](https://mp.weixin.qq.com/s/wwHR7lgg_Xt2yfk8ufH_aA)
+[跟我学C++中级篇—string_view分析](https://mp.weixin.qq.com/s/d3S__VTiaOnTPFE4J27kxA)
+[跟我学C++中级篇—debug和release](https://mp.weixin.qq.com/s/81nkwru63cPGlQ4XLOzdhg)
 
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
