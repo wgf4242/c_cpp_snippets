@@ -33,7 +33,19 @@ target_link_libraries(printDemo "D:\\mingw\\lib\\libstdc++exp.a")
 target_link_libraries(printDemo lz4) # 假设库名为 lz4
 ```
 
+## 编译
+
+```bash
+git clone https://github.com/zrax/pycdc.git --depth=1
+cd pycdc
+mkdir build
+cd build
+cmake ..
+make
+```
+
 # Make
+
 ./configure --prefix=/home/kali/Downloads/yafu/ecm_bin # 安装目录
 
 ```sh

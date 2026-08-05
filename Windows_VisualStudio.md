@@ -191,7 +191,7 @@ cl.exe /O2 /DNDEBUG virtual_func.cpp /link /RELEASE /OPT:REF /OPT:ICF /OUT:outpu
 输出目录: $(SolutionDir)$(Platform)\$(Configuration)\
 输出文件: 链接器 - 常规 - 输出文件
 
-## 优化编译大小
+## 优化编译大小/依赖库
 
 启用代码优化
 使用编译器的优化选项来减小代码大小。在 Visual Studio 中，可以在项目属性的“C/C++” -> “优化”中选择 /O1（最小化大小）选项。
