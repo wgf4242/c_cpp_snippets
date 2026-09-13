@@ -57,6 +57,8 @@
 [C++编程实践—进程信息管理控制](https://mp.weixin.qq.com/s/uLoYn-r1fNu4Qnf-s50G5A)
 [C++编程实践—类的私有化设计](https://mp.weixin.qq.com/s/fXrX65feBQx0rvQkjyVwOg)
 [C++编程实践—跨机器的运行](https://mp.weixin.qq.com/s/Wg6I_ZNU0AL-wMnP5Ili7g)
+[C++编程实践—文件锁机制](https://mp.weixin.qq.com/s/58fB5tfUNhejpomt-taOzg)
+[C++编程实践—接口数据对象的分析](https://mp.weixin.qq.com/s/gUzjq0aEAdfgyu-KSwpneQ)
 
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
@@ -119,6 +121,7 @@
 [跟我学C++中级篇—debug和release](https://mp.weixin.qq.com/s/81nkwru63cPGlQ4XLOzdhg)
 [跟我学C++中级篇—空基类优化](https://mp.weixin.qq.com/s/joAPsaxsIu9UgPuk4-O4nQ)
 [跟我学C++中级篇—空类标签](https://mp.weixin.qq.com/s/AwAnkuCm1BZcCBTLxxfUSg)
+[跟我学C++中级篇—内存流](https://mp.weixin.qq.com/s/wLHnMf0xHku0eK8d3YXWJg)
 
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
@@ -397,6 +400,7 @@
 [并行编程实战——CUDA编程的多GPU编程](https://mp.weixin.qq.com/s/BFmKeAS3oywgCx_Ff3HTlQ)
 [并行编程实战——CUDA编程的多GPU编程](https://mp.weixin.qq.com/s/sLuIIEuZd9HF05LHxb34iw)
 [并行编程实战—CUDA Tile编程入门之一内核和函数](https://mp.weixin.qq.com/s/0nWzefjnmlMG9K7o2Fhzdw)
+[并行编程实战—CUDA中的Tile编程之三Tile空间加载与存储](https://mp.weixin.qq.com/s/GrdoJcLRh-qxL3LobbriSw)
 
 ## 应用
 [c++应用网络编程之十七WebSocket](https://mp.weixin.qq.com/s/3Y6oMr9R1pZ23y0malMtsg)
