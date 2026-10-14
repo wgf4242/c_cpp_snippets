@@ -60,6 +60,8 @@
 [C++编程实践—文件锁机制](https://mp.weixin.qq.com/s/58fB5tfUNhejpomt-taOzg)
 [C++编程实践—接口数据对象的分析](https://mp.weixin.qq.com/s/gUzjq0aEAdfgyu-KSwpneQ)
 
+[C++20 中的 std::format](https://mp.weixin.qq.com/s/I0IhaZMGo-lFFEKypVnvyg)
+[C++20 std::jthread](https://mp.weixin.qq.com/s/0bSOjpkTengIinJQc0gnPQ)
 [跟我学C++中级篇——空值的定义](https://mp.weixin.qq.com/s/tmcZupzu3g77d_DTjH30GQ)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
 [跟我学c++中级篇——模板的模板参数匹配](https://mp.weixin.qq.com/s/zFGoQTECVZc0R01EcevDBg)
